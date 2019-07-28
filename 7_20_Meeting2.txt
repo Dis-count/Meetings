@@ -1,0 +1,3 @@
+1. To explain the difference between penalty and taxation.
+
+2. To know what the scheduling is.(How to calcute the cost of each coalitions) 

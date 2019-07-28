@@ -1,0 +1,18 @@
+1. Supermodular \to We can get P_0 > 0.
+   $c(V) = \sum_{m=1}^{n} \Delta m$
+   $\Delta m = c(V) - P_0 - C_/m$
+One thing to mind if the equality is obtained with the condition of supermodular or not.
+
+2. Don't mind if the equality is meaningless or not, at first follow the math rules to get the conclusion then consider its meaning and application(effect domain).
+
+3. The remaining problem for the last things:
+
+Firstly, subadditive is not satisfied and don't restrict yourself in the frame, be ready to jump out of the circle.
+
+Secondly, for the problem of $\bar{m}$, watch out that the optimal solution has been changed because the restriction of m.
+
+4. Things need to do: You can't get the conclusion straight(directly) from the dual way, you have to prove the other constraints is redundant with these only $n$ active constraints and the supermodular.
+
+5. For the comprehension of seperation problem(cutting planes method), you should know the purpose of column generation and row generation is to eliminate the useless constraints, obtain the active constraints. So at first we need to solve the exponential constraints, then we just need to solve maybe n active constraints to reduce computation.
+
+6. Consider the mechanism of generating m_s, for example at some situations, m_s must be a fixed number.  

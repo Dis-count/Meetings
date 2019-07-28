@@ -1,0 +1,7 @@
+1. Wirte and improve a program to calculate the subsidy.
+
+2. To determine the interval length of setup cost at different number of machines.
+
+3. To determine the breakpoint numbers of the curve when the machine number is fixed.
+
+4. To find under what conditions the machine number will change.

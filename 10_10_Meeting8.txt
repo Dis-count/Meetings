@@ -1,0 +1,41 @@
+1. Compare the conclusion of the origin paper,and get the correspnding result to improve.
+
+2. How to have the analytical representation of S_i.
+
+3. Pseudo Inverse Matrix maybe can be used to prove the slope.(广义逆)
+
+4. Rewrite the prove.
+
+组会告诫（Group Meeting）
+1. 时间安排（Time Scheduling）
+1-1. 学习态度方面（The attitude of study)
+进展慢（用心程度不够） 有效时间  6h/d 认真工作
+1-2 讨论方面 （The Way To Talk)
+交流方式   准备要充分
+提前准备好问题是什么（一定要剥离出来，去查最原始最精炼的有营养的问题，这样可以提高交流效率）
+解决方法是什么（导师不可能告诉你每一步怎么做，因此一定要快准狠的找到问题关键）
+1-3 汇报周期（The period of Meeting)
+在关键节点要及时交流，及时反馈信息*
+
+2. 互相交流（Communicate each other）
+用于处理基本问题
+
+3.对比别人的团队，自身存在的不足
+3-1. 阅读文献的数量远远不足
+文献用来启发，最终面窄又不深，Game over*
+3-2. 团队合作少
+
+4. 自身存在问题
+4-1. 关键节点的判断  不易把握  即出现问题如何解决？
+4-2. 闭门造车占时间   阅读文献 和 证明问题  如何权衡？
+4-3. 相关文献少  很难找到与自己所做相关的内容，不知道是否有人做过或是别人做的对自身的启发。
+
+5. 改进
+不要偷懒，不要以学生自居
+懒就push一下啊！！
+要经常听报告，思考，自己试着锻炼讲解，并进行汇报
+拓宽视野  锻炼在会议上演讲的能力
+多和别人交流  但不是具体的问题！
+
+6.
+11月15号  张超师兄汇报文章。

@@ -1,0 +1,19 @@
+%%  1. 关于定理3 中的机器不完全相同，条件怎么选取的问题。 Subsidy = 0 的证明
+
+证明时注意条件的使用，默认了排序的存在自然使得 game 局限在 identical 之中，无法保证每个facility服务的人数相同。
+
+c_{ij}=M for programming
+
+推导式子时注意默认不是正无穷
+
+
+注意从下到上如何    ####抽象条件##### (比如模型中的参数满足什么样的条件可以体现 这样的结果)
+
+The specific game (such as machine Scheduling) \to a group of games which satisfy some property \to the general game  \to the property of Matrix.
+
+
+%%   2. 关于引理4 中成员数量增大，机器数量相应增大的条件。
+充分必要条件
+
+
+注意这里需要从上向下推导  同时注意  充分条件sufficient condition 和 必要条件 necessary 111111condition 的区分。

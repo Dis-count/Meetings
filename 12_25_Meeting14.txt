@@ -1,0 +1,6 @@
+1. Talk about the frame of paper you are working on.(The method.dox is a proposal.)
+
+2. I want to divide the interval into two parts to consider.
+
+3. And I think sum_\rho_s will take a finite number of values among the right part of
+   the interval.

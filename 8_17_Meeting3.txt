@@ -1,0 +1,14 @@
+Q 1
+duality   LP(6)
+
+Q 2 
+choose 1 or 2 machine when taxing.  1>2?
+
+Q 3
+9.5  和 10 的关系？
+
+Q4 
+权重的意义  以及cost 和 time 可以混为一谈吗
+
+Q5
+Tax > Sub

@@ -1,0 +1,17 @@
+1. 时间节点
+2020  9-12 月 major revision  政府奖学金
+      4-5  月 投出去          7，8月 TOEFL
+      3  月初 终稿           2019 10月或 2020 3月申请 visiting student
+
+2. 布置逆优化任务
+2.1
+UFL  inverse  指定 f_i cij
+     optimal value/solution
+
+即给定x_0 \to 红黑线 \to 最优
+
+
+2.2
+（牺牲最优解换取求解方便）加入了限制条件后形成 LP 带入 初始数值 即可
+
+已经写出了式子(文章 page24)  直接编程求解即可

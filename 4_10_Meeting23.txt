@@ -1,0 +1,23 @@
+1. 用 Taxation 作为 Subsidy stabilize grand coalition.(标题，暂不用考虑太过细节的问题)
+
+2. 多考虑特殊情况下的一些性质。不局限于 Machine Scheduling.
+
+3. 考虑Superadditive/supermodular 等c(s)的性质可以得到什么结论。
+
+4. m_s 更为特殊的情况下(都一样等)会有什么性质。以及c(s)在什么条件下，得到的m是固定的，多抽象条件。
+
+*5. 在特殊情况下，机器调度的图怎么变化(退化)。
+
+*6. 重新考虑 \sum{\rho_s} 的上下界 以及画出相应图形。
+
+*7. 尝试加入一些限制条件，得到在不同区间的 \sum{\rho_s} 的范围。
+
+    7.1 先从 ti 全为相同时入手
+
+
+
+8. 关于 JOC 的算法2中行生成如何求解 the pricing problem 有了更深刻的认识以及关于拉格朗日松弛如何处理限制条件有了一些了解。
+
+9. 保留关于 行生成 列生成 的看法。(但好像实质上两者一样 只不过原问题和对偶问题)
+
+* means what you need to do.

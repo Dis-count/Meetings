@@ -1,0 +1,8 @@
+1. As we know, the slope at the different intervals equals to $m_V-\sum{\rho_s m_s}$.
+
+* When m_s has to be 1, we expand the range of slope values,
+(That is $m_V-\sum{\rho_s m_s}$ < $m_V-\sum{\rho_s}$)
+
+so what we obtain is the upper bound of the slope, which will be reflected on the graph
+
+* When m_s has to be m_V, 

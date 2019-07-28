@@ -1,0 +1,16 @@
+1. convex function definition. (两个点连线位于函数上方，即一组直线取最大值就构成凸函数）
+
+2. Note that you need to improve your search ability. Search the key words and read, and then you will find what you want.
+
+3. p * ( a(s)-c(s)-z ) = 0  means   p > 0 一定是不满意联盟
+
+4. 与 Uhan 论文对比 验证自己的结论是否正确， 证明写出来。 以及注意计算复杂度。
+
+5. 多写线性规划的对偶问题，整数规划没有对偶。
+
+6. 对于scheduling problem 当 m 固定的时候，c(s)可能可以用线性规划来表示出来。
+
+7. 一些区间性质可以通过已有的general结论得到，再结合我们 case 的特殊性来得到更多更详细的结论。
+
+反馈：  google pdf 真的好用   直接搜关键词就好  但注意整理收集到的资料进行分类   
+       Uhan 与我们的问题不一样  所以认为结论正确

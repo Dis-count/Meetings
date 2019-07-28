@@ -1,0 +1,7 @@
+1. c(s)=min cx + m'S_0
+   s.t. Ax ¡Ý By + C
+For a given S_0
+For the specific example,what conclusion we can get.
+
+2. Read more IM games and try to write the corresponding form. 
+  Sometimes by adding another new decision variable we can get a better result.

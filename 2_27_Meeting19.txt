@@ -1,0 +1,9 @@
+1. The framework of this paper is that proposing a general model as the core content. Then the specific example should be listed below.
+
+2. The algorithm is used to solve taxation when subsidy is fixed or subsidy when taxation is fixed.
+
+3. Use the property of c(s) to prove the general situation. (PM)
+
+4. Define the price problem as the facility pricing game.  (Use your own word, but it should have the original form.)
+
+5. Make sure that you know every detail of sharing supermodular. (Write it down once by yourself)

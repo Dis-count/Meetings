@@ -1,0 +1,15 @@
+11_15
+Change the formulation of the problem as:
+min cx+Pm
+  s.t. Ax¡ÝBy+D
+       ¦Áx¡Üm
+
+
+11_28
+In fact,I feel so strange about this form and don't know what to do.
+
+You can rewrite the new formulation to a general IM.
+
+And you should focus on subsidy not the IM games.
+
+Express the facility location problem and vehicle routing problem as the same formulation.

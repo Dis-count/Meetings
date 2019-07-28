@@ -1,0 +1,5 @@
+1. We solved the first problem.
+Determined the interval of Setup cost.
+2. PGG with endogenous reward. (Solved)
+3. ILP problem. And IM game.
+4. Think about the meaning of S_0.   (Important)

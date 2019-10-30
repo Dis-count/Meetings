@@ -1,0 +1,32 @@
+1. Consider this MIP problem
+
+min   cx
+s.t. Ax \geq B
+    A'x \geq B'
+x_1 \in {0,1} x_2 \in [0,1]    x=[x_1,x_2]
+
+c \to d  such that  x^0 \to optimal x^*
+
+Find the literatures that describe the inverse problem
+
+2. Utilize the Langrangian to relax some constrains to the objective function.
+
+So we want to adjuct the parameter A and D.
+
+L(\lambda) = min cx + \lambda[A'x-B']
+        s.t. Ax \geq B
+          x' \in {0,1}
+
+How to adjust \lambda A' to \lambda D' such that  x^0 \to optimal
+
+PLUS the part of theory.
+
+Besides that,
+
+Find the original problem and the reduced formulation.
+
+1. LP \to LP
+
+2. MIP \to LP
+
+3. MIP \to MIP

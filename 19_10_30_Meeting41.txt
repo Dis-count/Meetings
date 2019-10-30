@@ -1,0 +1,17 @@
+1. Likewise, we still consider the inverse general form.
+
+Follow two methods: Lagrange method to obtain the \lambda^* and utilize the inverse optimization. Notice the sequence/order.
+And the other one, simultaneously use the Lagrange method and inverse optimization.
+
+Observe the two gaps.
+
+
+Consider the Linear Production Problem
+
+Consider the relation between weight and \lambda
+
+
+
+
+
+2. Notice that we consider INVERSE problem made up of the solution and value two forms.

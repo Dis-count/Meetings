@@ -1,0 +1,33 @@
+ 1. 可行性的问题
+
+对于 linear production problem 讨论什么时候可以通过 一般的逆优化方法(指改变c)得到最优解
+
+可以考虑的因素有，约束数量，与目标函数的关系
+
+2. 图示说明转化关系
+
+对于一组约束
+     min cx
+s.t. Ax \geq B
+    A'x \geq B'
+feasible solution x^0 is a interior point
+
+relax the constraints A'x \geq B' to the objective and obtain that
+
+     min c'x
+s.t. Ax \geq B
+in this case, the same solution x^0 is still a interior point, so if the first problem can't get inverse optimization, then the second neither. However, virtually we know that this problem have the inverse optimization.
+So what's the problem?
+How to use the diagram to show the relationship?
+转化之后关系如何?
+
+3.  计算流程的问题
+
+可以松弛所有的约束到目标函数中，求出最优的一组向量 \lambda，再通过一般的逆优化方法(IO)求解 a 在某个norm 下 的改变量。 与原来直接使用改变矩阵 A 的方法得到的改变量相比较。或者利用得到的改变量带入原来的 A 中看是否是最优解。
+
+注意对于原问题得到的 d 可能对应到多个 a 取值
+
+4. About the UFL inverse optimization
+
+Notice that the particularity of the UFL, so if the problem has zero-integrality-gap which means LP has the integer optimal solution. This will be called balanced in the game.
+This is also a property of assignable constraints. So add these constraints we can obtain the heuristic method which show the excellent results.

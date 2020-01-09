@@ -13,5 +13,4 @@ Consider the relation between weight and \lambda
 
 
 
-
 2. Notice that we consider INVERSE problem made up of the solution and value two forms.

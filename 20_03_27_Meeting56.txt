@@ -1,0 +1,3 @@
+Ahuja RK, Magnanti TL, Orlin JB (1993) Network Flows: Theory, Algorithms, and Applications (Prentice-Hall, Englewood Cliffs, NJ).
+
+Need to be downloaded.

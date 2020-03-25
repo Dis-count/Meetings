@@ -1,3 +1,5 @@
 Ahuja RK, Magnanti TL, Orlin JB (1993) Network Flows: Theory, Algorithms, and Applications (Prentice-Hall, Englewood Cliffs, NJ).
 
 Need to be downloaded.
+
+松弛一部分限制条件之后，由于松弛变量相同所以还是线性规划，但如何保证 strong duality 的性质是一个问题，也就是这个时候得到的 \lambda 如何确保是最优的。

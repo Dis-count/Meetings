@@ -1,0 +1,6 @@
+PWD E:/Files/Github/Meetings/Presentation_Template/chapters
+INPUT d:/Software/texlive/2019/texmf.cnf
+INPUT d:/Software/texlive/2019/texmf-dist/web2c/texmf.cnf
+INPUT d:/Software/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt
+INPUT a-silly-idea.tex
+OUTPUT a-silly-idea.log

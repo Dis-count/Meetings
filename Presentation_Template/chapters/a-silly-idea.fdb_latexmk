@@ -1,0 +1,14 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "a-silly-idea.xdv" "a-silly-idea.pdf" "a-silly-idea" 0
+  "a-silly-idea.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "a-silly-idea.pdf"
+["xelatex"] 1592485403 "a-silly-idea.tex" "a-silly-idea.xdv" "a-silly-idea" 1592485404
+  "a-silly-idea.aux" 1592485283 9 a94a2480d3289e625eea47cd1b285758 ""
+  "a-silly-idea.tex" 1592485403 3921 cf066640d0fb50e62896b17791f53f54 ""
+  "d:/Software/texlive/2019/texmf-dist/web2c/texmf.cnf" 1563198096 36005 b5215be59893aa23abcf55b744114feb ""
+  "d:/Software/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1563199821 3752671 7da3ca06bc92b79365184f1d5b64495f ""
+  "d:/Software/texlive/2019/texmf.cnf" 1563199635 673 4ae7b2f49cee444c5343a45b5d0f169c ""
+  (generated)
+  "a-silly-idea.log"
+  "a-silly-idea.xdv"

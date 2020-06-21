@@ -1,4 +1,7 @@
 参考网站： https://blog.csdn.net/kittyzc/category_7940150.html
+关于运筹优化的相关网站有 数据魔术师的公众号，CSDN运筹优化系列（上述）
+以及下面这个 cnblog 专注代码数据的网站。
+https://www.cnblogs.com/dengfaheng/p/11338336.html
 
 常规优化算法：
 

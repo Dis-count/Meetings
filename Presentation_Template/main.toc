@@ -1,7 +1,7 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {english}{}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {1}{Backpack problem}{3}{0}{1}
+\beamer@sectionintoc {1}{Dynamic Programming}{3}{0}{1}
 \defcounter {refsection}{0}\relax 
 \beamer@sectionintoc {2}{Playing Around With Our New Toy}{24}{0}{2}
 \defcounter {refsection}{0}\relax 

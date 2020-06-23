@@ -1,16 +1,16 @@
 # Fdb version 3
-["biber main"] 1592484926 "main.bcf" "main.bbl" "main" 1592485306
+["biber main"] 1592484926 "main.bcf" "main.bbl" "main" 1592900003
   "bib.bib" 1564364125 1458 41cfe558046746a978a90c56309e3ce3 ""
-  "main.bcf" 1592485305 91724 a9e56ec24822eba6db167e593fdb83ee "xelatex"
+  "main.bcf" 1592900001 91724 a9e56ec24822eba6db167e593fdb83ee "xelatex"
   (generated)
-  "main.bbl"
   "main.blg"
-["xdvipdfmx"] 1592485305 "main.xdv" "main.pdf" "main" 1592485306
-  "main.xdv" 1592485305 2095288 d0118ac28cf397642f6b707df0dd13e0 "xelatex"
+  "main.bbl"
+["xdvipdfmx"] 1592900001 "main.xdv" "main.pdf" "main" 1592900003
+  "main.xdv" 1592900001 2095784 a6f57f979e159218c6fca625fdbc59cc "xelatex"
   (generated)
   "main.pdf"
-["xelatex"] 1592485299 "main.tex" "main.xdv" "main" 1592485306
-  "chapters/a-silly-idea.tex" 1592485282 3933 bbdfa5b5b125b79cc2399f82d8f09e20 ""
+["xelatex"] 1592899995 "main.tex" "main.xdv" "main" 1592900003
+  "chapters/a-silly-idea.tex" 1592485403 3921 cf066640d0fb50e62896b17791f53f54 ""
   "chapters/fourier-playground.tex" 1564364125 10516 38bf9a1a1f3d87d602b612b9e9815066 ""
   "chapters/playing-around.tex" 1564364125 2933 94caf62ba9cdbbb5b8f0f52f6727bab5 ""
   "chapters/preamble.tex" 1564364125 3786 9f5f89dd8850350a465b198c43720ddd ""
@@ -269,21 +269,21 @@
   "images/fourier-3.pdf" 1564364125 7740 5a8994ea48adc37097bf1f7f63e4077c ""
   "images/fourier-4.pdf" 1564364125 5325 a144b221236e4d062f37220de8548e72 ""
   "images/fourier-5.pdf" 1564364125 18551 0b0452bb709641401fd74f406a4b951c ""
-  "main.aux" 1592485305 19727 8bc952986f0d6908ef8dd975277f9dad "xelatex"
+  "main.aux" 1592900001 19736 ea5247a005a51bea2465e6bbc28c89d0 "xelatex"
   "main.bbl" 1592484951 5029 55c324640d46ca479a9d54d050280b8e "biber main"
-  "main.nav" 1592485305 11594 ad6df4bd2a54261240e4702eaafbbad8 "xelatex"
-  "main.out" 1592485305 547 6e92ab0c2f33f526f6f37b1a694b09bb "xelatex"
-  "main.run.xml" 1592485305 2404 2b3439b69d8d3ab598d1340707d0da39 "xelatex"
-  "main.tex" 1592485292 1504 fb6c7b87aa6b088ca6439cc8634bf2b1 ""
-  "main.toc" 1592485305 632 706767fa684a181757e9f031238cfde8 "xelatex"
+  "main.nav" 1592900001 11600 d2449f2017ae87483258539b480556de "xelatex"
+  "main.out" 1592900001 550 9f7fa95d50a63304dd544a93414d7959 "xelatex"
+  "main.run.xml" 1592900001 2404 2b3439b69d8d3ab598d1340707d0da39 "xelatex"
+  "main.tex" 1592899984 1511 afb5c2f42b927e6819ed609cfdaeb1af ""
+  "main.toc" 1592900001 635 5de5f0367ca071a661043d95416f144f "xelatex"
   "nul" 0 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "main.snm"
-  "main.xdv"
-  "main.toc"
-  "main.nav"
-  "main.log"
-  "main.bcf"
-  "main.run.xml"
   "main.aux"
+  "main.toc"
+  "main.log"
+  "main.xdv"
+  "main.run.xml"
+  "main.nav"
+  "main.bcf"
   "main.out"
+  "main.snm"

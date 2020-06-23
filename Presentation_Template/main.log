@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.15)  18 JUN 2020 21:01
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.15)  23 JUN 2020 16:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1475,7 +1475,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 46.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 46.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 46.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6E92AB0C2F33F526F6F37B1A694B09BB.
+(rerunfilecheck)             Checksum: 9F7FA95D50A63304DD544A93414D7959.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -1483,10 +1483,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  42897 strings out of 492909
  809344 string characters out of 6132501
- 1265205 words of memory out of 5000000
+ 1265242 words of memory out of 5000000
  46287 multiletter control sequences out of 15000+600000
  547332 words of font info for 90 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  56i,16n,78p,798b,4942s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.xdv (82 pages, 2095288 bytes).
+Output written on main.xdv (82 pages, 2095784 bytes).

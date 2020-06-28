@@ -1,0 +1,12 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "General-Optimization.xdv" "General-Optimization.pdf" "General-Optimization" 0
+  "General-Optimization.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "General-Optimization.pdf"
+["xelatex"] 1593360907 "General-Optimization.tex" "General-Optimization.xdv" "General-Optimization" 1593360908
+  "General-Optimization.aux" 1593356156 9 a94a2480d3289e625eea47cd1b285758 ""
+  "General-Optimization.tex" 1593360906 1756 aa6c34cebe3c82b4802743b840318fbb ""
+  "c:/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt" 1538210572 2482158 4629f37b26778d848d091c40e14b89a9 ""
+  (generated)
+  "General-Optimization.log"
+  "General-Optimization.xdv"

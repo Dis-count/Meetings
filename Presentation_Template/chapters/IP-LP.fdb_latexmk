@@ -1,0 +1,12 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "IP-LP.xdv" "IP-LP.pdf" "IP-LP" 0
+  "IP-LP.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "IP-LP.pdf"
+["xelatex"] 1593356368 "IP-LP.tex" "IP-LP.xdv" "IP-LP" 1593356370
+  "IP-LP.aux" 1593346435 9 a94a2480d3289e625eea47cd1b285758 ""
+  "IP-LP.tex" 1593356367 3328 46a8330088ae1625611e9377a3431e48 ""
+  "c:/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt" 1538210572 2482158 4629f37b26778d848d091c40e14b89a9 ""
+  (generated)
+  "IP-LP.log"
+  "IP-LP.xdv"

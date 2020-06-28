@@ -1,0 +1,12 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "playing-around.xdv" "playing-around.pdf" "playing-around" 0
+  "playing-around.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "playing-around.pdf"
+["xelatex"] 1593342105 "playing-around.tex" "playing-around.xdv" "playing-around" 1593342106
+  "c:/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt" 1538210572 2482158 4629f37b26778d848d091c40e14b89a9 ""
+  "playing-around.aux" 1593329375 9 a94a2480d3289e625eea47cd1b285758 ""
+  "playing-around.tex" 1593342104 2868 8076e6306b497a7ed09b2cb188daea39 ""
+  (generated)
+  "playing-around.xdv"
+  "playing-around.log"

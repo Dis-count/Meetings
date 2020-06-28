@@ -3,10 +3,14 @@
 \defcounter {refsection}{0}\relax 
 \beamer@sectionintoc {1}{Dynamic Programming}{3}{0}{1}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {2}{Playing Around With Our New Toy}{24}{0}{2}
+\beamer@sectionintoc {2}{Integer \& Linear Programming}{14}{0}{2}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {3}{Fourier's Physics Playground}{38}{0}{3}
+\beamer@sectionintoc {3}{General Optimization Methods}{21}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@subsectionintoc {3}{1}{Maxwell's Electrodynamics}{38}{0}{3}
+\beamer@subsectionintoc {3}{1}{Exact Methods}{22}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@subsectionintoc {3}{2}{Heisenberg's Uncertainty Principle}{69}{0}{3}
+\beamer@subsectionintoc {3}{2}{Approximate Methods}{30}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Combination Optimization}{37}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Convex Optimization}{41}{0}{5}

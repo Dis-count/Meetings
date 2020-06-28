@@ -1,0 +1,76 @@
+\section{Integer \& Linear Programming}
+
+    \frame{\sectionpage}
+    %
+    % $ {\displaystyle {\text{maximize}}~~\sum _{(i,j)\in A\times T}w_{ij}x_{ij}} $
+    % $ {\displaystyle {\text{subject to}}~~\sum _{j\in T}x_{ij}=1{\text{ for }}i\in A,\,~~~\sum _{i\in A}x_{ij}=1{\text{ for }}j\in T} $
+    % $ {\displaystyle 0\leq x_{ij}\leq 1{\text{ for }}i,j\in A,T,\,} $
+    % $ {\displaystyle x_{ij}\in \mathbb {Z} {\text{ for }}i,j\in A,T.} $
+
+    \begin{frame}{Integer Programming}
+        \begin{itemize}
+          \item Shortest path problem
+          \begin{equation*}
+            \begin{align}
+            \min& \sum_{(i,j)\in A}w_{ij}x_{ij}\\
+            \text{s.t.} &\sum_{j}x_{ij}-\sum_{j}x_{ji}={\begin{cases}1,&{\text{if }}i=s;\\-1,&{\text{if }}i=t;\\0,&{\text{ otherwise.}}\end{cases}}\\
+            & x\in \{0,1\} ~\text{and for all} ~i.
+            \end{align}
+          \end{equation*}
+          \item Maximum flow problem
+          \item Assignment problem
+        \end{itemize}
+    \end{frame}
+
+    \begin{frame}{Totally Unimodular Matrix}
+      \begin{itemize}
+        \item Every entry in A is 0, +1, or −1;
+        \item Every column of A contains at most two non-zero (i.e., +1 or −1) entries;
+        \item If two non-zero entries in a column of A have the same sign, then the row of one is in B, and the other in C;
+        \item If two non-zero entries in a column of A have opposite signs, then the rows of both are in B, or both in C.
+      \end{itemize}
+    \end{frame}
+
+    \begin{frame}{TU Matrix}
+      \begin{itemize}
+        \item Totally unimodular matrices are extremely important in polyhedral combinatorics and combinatorial optimization since they give a quick way to verify that a linear program is integral (has an integral optimum, when any optimum exists).
+        \item Specifically, if A is TU and b is integral, then linear programs of forms like $ \{\min cx\mid Ax\geq b,x\geq 0\} $ or $ \{\max cx\mid Ax\leq b\} $ have integral optima, for any c. Hence if A is totally unimodular and b is integral, every extreme point of the feasible region (e.g. $ \{x\mid Ax\geq b\} $) is integral and thus the feasible region is an integral polyhedron.
+      \end{itemize}
+    \end{frame}
+
+    \begin{frame}{Another Perspective}
+      Recall the simplex method for linear programming.
+      \begin{equation*}
+        \begin{align}
+        Bx &= b \\
+        x^* &= (B^{-1}b,0) \\
+        \end{align}
+      \end{equation*}
+      How to obtain the inverse of B?
+
+      Cramer's rule: \[B^{-1} = B^*/\text{det}(B)\]
+    \end{frame}
+
+    \begin{frame}{Simplex Method}
+      \begin{itemize}
+        \item Feasible region(Convex polytope)
+        \item Basic feasible solution(Extreme point)
+        \item Basic variables(Identity matrix)
+        \item Entering variable selection
+        \item Leaving variable selection
+        \item Pivot operation
+        \item Reduced costs
+      \end{itemize}
+    \end{frame}
+
+    \begin{frame}{Another Perspective}
+      The simplex method is an iteration process.
+      \begin{equation*}
+        \begin{align}
+        x' = x – θλ
+        \end{align}
+      \end{equation*}
+      How to obtain the inverse of B?
+
+      Cramer's rule: \[B^{-1} = B^*/\text{det}(B)\]
+    \end{frame}

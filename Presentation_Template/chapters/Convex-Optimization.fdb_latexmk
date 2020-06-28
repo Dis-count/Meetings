@@ -1,0 +1,12 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "Convex-Optimization.xdv" "Convex-Optimization.pdf" "Convex-Optimization" 0
+  "Convex-Optimization.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "Convex-Optimization.pdf"
+["xelatex"] 1593359230 "Convex-Optimization.tex" "Convex-Optimization.xdv" "Convex-Optimization" 1593359232
+  "Convex-Optimization.aux" 1593359230 9 a94a2480d3289e625eea47cd1b285758 ""
+  "Convex-Optimization.tex" 1593359229 120 90b6c7bae3afec24c18ae6c4520ce960 ""
+  "c:/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt" 1538210572 2482158 4629f37b26778d848d091c40e14b89a9 ""
+  (generated)
+  "Convex-Optimization.xdv"
+  "Convex-Optimization.log"

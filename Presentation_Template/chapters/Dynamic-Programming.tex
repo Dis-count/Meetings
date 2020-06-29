@@ -28,7 +28,7 @@
 
     \begin{frame}{0-1 Knapsack Problem}
       \uncover<+->{The solution can then be found by calculating $ m[n,W] $. To do this efficiently, we can use a table to store previous computations.
-      This solution will therefore run in $ O(nW) $ time and $ O(nW) $ space.}
+      This solution will therefore run in $ O(nW) $ time and $ O(nW) $ space.}\\
 
       \centering
       \includegraphics[width = 0.8\textwidth]{images/0-1-knapsack-problem1.png}
@@ -80,8 +80,11 @@
     \begin{equation*}
       \begin{align}
     \textcolor{yellow}{Stage 1}\quad &F(C_l) = \min_m\{C_lT_m\} \\
+    \vspace{4pt}
     \textcolor{red}{Stage 2}\quad &F(B_k) = \min_l\{B_kC_l+F(C_l)\} \\
+    \vspace{4pt}
     \textcolor{blue}{Stage 3}\quad &F(A_j) = \min_k\{A_jB_k+F(B_k)\} \\
+    \vspace{4pt}
     \textcolor{green}{Stage 4}\quad &F(S_i) = \min_j\{S_iA_j+F(A_j)\}
     \end{align}
     \end{equation*}

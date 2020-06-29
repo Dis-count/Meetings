@@ -1,12 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 0 "Dynamic-Programming.xdv" "Dynamic-Programming.pdf" "Dynamic-Programming" 0
-  "Dynamic-Programming.xdv" 0 -1 0 "xelatex"
-  (generated)
-  "Dynamic-Programming.pdf"
-["xelatex"] 1593346215 "Dynamic-Programming.tex" "Dynamic-Programming.xdv" "Dynamic-Programming" 1593346217
-  "Dynamic-Programming.aux" 1593331412 9 a94a2480d3289e625eea47cd1b285758 ""
-  "Dynamic-Programming.tex" 1593346215 6293 66d53685c6bf9202ac252b5f3fabcb14 ""
-  "c:/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt" 1538210572 2482158 4629f37b26778d848d091c40e14b89a9 ""
+["pdflatex"] 1593392493 "Dynamic-Programming.tex" "Dynamic-Programming.pdf" "Dynamic-Programming" 1593392494
+  "Dynamic-Programming.aux" 1593391548 9 a94a2480d3289e625eea47cd1b285758 ""
+  "Dynamic-Programming.tex" 1593392493 4045 98a5cab6c8af8efd686dbda9412a8c4a ""
+  "d:/Software/texlive/2019/texmf-dist/web2c/texmf.cnf" 1563198096 36005 b5215be59893aa23abcf55b744114feb ""
+  "d:/Software/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1563199842 4265377 18e0600160d7a923718c67133e2be9be ""
+  "d:/Software/texlive/2019/texmf.cnf" 1563199635 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   (generated)
   "Dynamic-Programming.log"
-  "Dynamic-Programming.xdv"
+  "Dynamic-Programming.pdf"

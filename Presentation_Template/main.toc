@@ -5,12 +5,12 @@
 \defcounter {refsection}{0}\relax 
 \beamer@sectionintoc {2}{Integer \& Linear Programming}{14}{0}{2}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {3}{General Optimization Methods}{21}{0}{3}
+\beamer@sectionintoc {3}{General Optimization Methods}{22}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@subsectionintoc {3}{1}{Exact Methods}{22}{0}{3}
+\beamer@subsectionintoc {3}{1}{Exact Methods}{23}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@subsectionintoc {3}{2}{Approximate Methods}{30}{0}{3}
+\beamer@subsectionintoc {3}{2}{Approximate Methods}{35}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {4}{Combination Optimization}{37}{0}{4}
+\beamer@sectionintoc {4}{Combination Optimization}{41}{0}{4}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {5}{Convex Optimization}{41}{0}{5}
+\beamer@sectionintoc {5}{Convex Optimization}{45}{0}{5}

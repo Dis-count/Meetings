@@ -1,12 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.9.29)  28 JUN 2020 20:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.7.15)  29 JUN 2020 09:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **Dynamic-Programming.tex
 (./Dynamic-Programming.tex
-LaTeX2e <2018-04-01> patch level 2
-Babel <3.18> and hyphenation patterns for 6 language(s) loaded.
+LaTeX2e <2018-12-01>
 ./Dynamic-Programming.tex:1: Undefined control sequence.
 l.1 \section
             {Dynamic Programming}
@@ -1105,7 +1104,7 @@ Overfull \hbox (32.51904pt too wide) in paragraph at lines 29--32
 
 
 Overfull \hbox (32.51904pt too wide) in paragraph at lines 29--32
-\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 nW\OT1/cmr/m/n/10 )$
+\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 nW\OT1/cmr/m/n/10 )$ 
  []
 
 ./Dynamic-Programming.tex:34: Undefined control sequence.
@@ -1154,7 +1153,7 @@ look up `weird error' in the index to The TeXbook.)
 l.34       \includegraphics[width = 0.8\textwidth]
                                                   {images/0-1-knapsack-probl...
 Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
 To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
@@ -1622,7 +1621,7 @@ look up `weird error' in the index to The TeXbook.)
 l.55 ...   \includegraphics[width = 0.6\textwidth]
                                                   {images/Shortest1.png}
 Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
 To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
@@ -2051,7 +2050,7 @@ look up `weird error' in the index to The TeXbook.)
 l.75 ...   \includegraphics[width = 0.8\textwidth]
                                                   {images/Shortest3.png}
 Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
 To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
@@ -2165,10 +2164,8 @@ l.82     \textcolor{yellow}{Stage 1}\quad &F(C_
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Dynamic-Programming.tex:83: Undefined control sequence.
-<recently read> \textcolor 
-                           
-l.83     \textcolor
+./Dynamic-Programming.tex:84: Undefined control sequence.
+l.84     \textcolor
                    {red}{Stage 2}\quad &F(B_k) = \min_l\{B_kC_l+F(C_l)\} \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2176,8 +2173,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./Dynamic-Programming.tex:83: Misplaced alignment tab character &.
-l.83     \textcolor{red}{Stage 2}\quad &
+./Dynamic-Programming.tex:84: Misplaced alignment tab character &.
+l.84     \textcolor{red}{Stage 2}\quad &
                                         F(B_k) = \min_l\{B_kC_l+F(C_l)\} \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2186,10 +2183,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./Dynamic-Programming.tex:84: Undefined control sequence.
-<recently read> \textcolor 
-                           
-l.84     \textcolor
+./Dynamic-Programming.tex:86: Undefined control sequence.
+l.86     \textcolor
                    {blue}{Stage 3}\quad &F(A_j) = \min_k\{A_jB_k+F(B_k)\} \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2197,8 +2192,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./Dynamic-Programming.tex:84: Misplaced alignment tab character &.
-l.84     \textcolor{blue}{Stage 3}\quad &
+./Dynamic-Programming.tex:86: Misplaced alignment tab character &.
+l.86     \textcolor{blue}{Stage 3}\quad &
                                          F(A_j) = \min_k\{A_jB_k+F(B_k)\} \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2207,10 +2202,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./Dynamic-Programming.tex:85: Undefined control sequence.
-<recently read> \textcolor 
-                           
-l.85     \textcolor
+./Dynamic-Programming.tex:88: Undefined control sequence.
+l.88     \textcolor
                    {green}{Stage 4}\quad &F(S_i) = \min_j\{S_iA_j+F(A_j)\}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2218,8 +2211,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./Dynamic-Programming.tex:85: Misplaced alignment tab character &.
-l.85     \textcolor{green}{Stage 4}\quad &
+./Dynamic-Programming.tex:88: Misplaced alignment tab character &.
+l.88     \textcolor{green}{Stage 4}\quad &
                                           F(S_i) = \min_j\{S_iA_j+F(A_j)\}
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2229,22 +2222,22 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-./Dynamic-Programming.tex:86: LaTeX Error: \begin{frame} on input line 79 ended by \end{align}.
+./Dynamic-Programming.tex:89: LaTeX Error: \begin{frame} on input line 79 ended by \end{align}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.86     \end{align}
+l.89     \end{align}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./Dynamic-Programming.tex:86: Missing $ inserted.
+./Dynamic-Programming.tex:89: Missing $ inserted.
 <inserted text> 
                 $
-l.86     \end{align}
+l.89     \end{align}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2253,75 +2246,75 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-./Dynamic-Programming.tex:87: LaTeX Error: \begin{frame} on input line 79 ended by \end{equation*}.
+./Dynamic-Programming.tex:90: LaTeX Error: \begin{frame} on input line 79 ended by \end{equation*}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.87     \end{equation*}
+l.90     \end{equation*}
                         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 79--89
+Overfull \hbox (20.0pt too wide) in paragraph at lines 79--92
 [][]
  []
 
 
-Overfull \hbox (17.51387pt too wide) in paragraph at lines 79--89
+Overfull \hbox (17.51387pt too wide) in paragraph at lines 79--92
 []\OT1/cmr/m/n/10 ) =
  []
 
 
-Overfull \hbox (57.9194pt too wide) in paragraph at lines 79--89
+Overfull \hbox (57.9194pt too wide) in paragraph at lines 79--92
 [][]\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 C[]T[]\OMS/cmsy/m/n/10 g[] 
  []
 
 
-Overfull \hbox (83.69858pt too wide) in paragraph at lines 79--89
+Overfull \hbox (83.69858pt too wide) in paragraph at lines 79--92
 [][] \OML/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 B[]\OT1/cmr/m/n/10 ) =
  []
 
 
-Overfull \hbox (55.23592pt too wide) in paragraph at lines 79--89
+Overfull \hbox (55.23592pt too wide) in paragraph at lines 79--92
 [][]\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 B[]C[] \OT1/cmr/m/n/10 +
  []
 
 
-Overfull \hbox (30.81395pt too wide) in paragraph at lines 79--89
+Overfull \hbox (30.81395pt too wide) in paragraph at lines 79--92
 \OML/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 C[]\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 g[] 
  []
 
 
-Overfull \hbox (86.10948pt too wide) in paragraph at lines 79--89
+Overfull \hbox (86.10948pt too wide) in paragraph at lines 79--92
 [][] \OML/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 A[]\OT1/cmr/m/n/10 ) =
  []
 
 
-Overfull \hbox (58.58353pt too wide) in paragraph at lines 79--89
+Overfull \hbox (58.58353pt too wide) in paragraph at lines 79--92
 [][]\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 A[]B[] \OT1/cmr/m/n/10 +
  []
 
 
-Overfull \hbox (33.10252pt too wide) in paragraph at lines 79--89
+Overfull \hbox (33.10252pt too wide) in paragraph at lines 79--92
 \OML/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 B[]\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 g[] 
  []
 
 
-Overfull \hbox (91.23677pt too wide) in paragraph at lines 79--89
+Overfull \hbox (91.23677pt too wide) in paragraph at lines 79--92
 [][] \OML/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 S[]\OT1/cmr/m/n/10 ) =
  []
 
 
-Overfull \hbox (54.8329pt too wide) in paragraph at lines 79--89
+Overfull \hbox (54.8329pt too wide) in paragraph at lines 79--92
 [][]\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 S[]A[] \OT1/cmr/m/n/10 +
  []
 
 
-Overfull \hbox (32.31085pt too wide) in paragraph at lines 79--89
+Overfull \hbox (32.31085pt too wide) in paragraph at lines 79--92
 \OML/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 A[]\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 g$
  []
 
@@ -2345,7 +2338,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no m in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 90--91
+Overfull \hbox (20.0pt too wide) in paragraph at lines 93--94
 [][] 
  []
 
@@ -2377,8 +2370,8 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
-./Dynamic-Programming.tex:94: Undefined control sequence.
-l.94         \includegraphics
+./Dynamic-Programming.tex:97: Undefined control sequence.
+l.97         \includegraphics
                              [width = 0.8\textwidth]{images/Shortest2.png}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2396,22 +2389,22 @@ Missing character: There is no = in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 8 in font nullfont!
-./Dynamic-Programming.tex:94: Missing number, treated as zero.
+./Dynamic-Programming.tex:97: Missing number, treated as zero.
 <to be read again> 
                    ]
-l.94 ...   \includegraphics[width = 0.8\textwidth]
+l.97 ...   \includegraphics[width = 0.8\textwidth]
                                                   {images/Shortest2.png}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-./Dynamic-Programming.tex:94: Illegal unit of measure (pt inserted).
+./Dynamic-Programming.tex:97: Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.94 ...   \includegraphics[width = 0.8\textwidth]
+l.97 ...   \includegraphics[width = 0.8\textwidth]
                                                   {images/Shortest2.png}
 Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
 To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
@@ -2438,1076 +2431,6 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no ' in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no x in font nullfont!
-./Dynamic-Programming.tex:100: Undefined control sequence.
-l.100         \includegraphics
-                              [height = 0.7\textheight]{images/fourier-5.pdf}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no [ in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 7 in font nullfont!
-./Dynamic-Programming.tex:100: Missing number, treated as zero.
-<to be read again> 
-                   ]
-l.100 ...\includegraphics[height = 0.7\textheight]
-                                                  {images/fourier-5.pdf}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-./Dynamic-Programming.tex:100: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   ]
-l.100 ...\includegraphics[height = 0.7\textheight]
-                                                  {images/fourier-5.pdf}
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no ] in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no f in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 98--102
-[][]
- []
-
-Missing character: There is no B in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no x in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-./Dynamic-Programming.tex:104: Undefined control sequence.
-l.104         \uncover
-                      <+>{\begin{equation*}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no < in font nullfont!
-Missing character: There is no + in font nullfont!
-Missing character: There is no > in font nullfont!
-
-./Dynamic-Programming.tex:104: LaTeX Error: Environment equation* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.104         \uncover<+>{\begin{equation*}
-                                           
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./Dynamic-Programming.tex:105: LaTeX Error: \mathcal allowed only in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.105             \mathcal
-                          {F}[f](\xi) = \hat{f}(\xi) = \frac{1}{\sqrt{2\pi}}...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no F in font nullfont!
-Missing character: There is no [ in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no ( in font nullfont!
-./Dynamic-Programming.tex:105: Missing $ inserted.
-<inserted text> 
-                $
-l.105             \mathcal{F}[f](\xi
-                                    ) = \hat{f}(\xi) = \frac{1}{\sqrt{2\pi}}...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./Dynamic-Programming.tex:105: Undefined control sequence.
-l.105 ...{-\infty}^{+\infty} f(x) e^{-i x \xi} \dd
-                                                  {x}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./Dynamic-Programming.tex:106: LaTeX Error: \begin{frame} on input line 103 ended by \end{equation*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.106         \end{equation*}
-                             }
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Dynamic-Programming.tex:106: Missing $ inserted.
-<inserted text> 
-                $
-l.106         \end{equation*}
-                             }
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./Dynamic-Programming.tex:107: Undefined control sequence.
-l.107         \uncover
-                      <+>{\begin{equation*}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no < in font nullfont!
-Missing character: There is no + in font nullfont!
-Missing character: There is no > in font nullfont!
-
-./Dynamic-Programming.tex:107: LaTeX Error: Environment equation* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.107         \uncover<+>{\begin{equation*}
-                                           
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./Dynamic-Programming.tex:108: LaTeX Error: \mathcal allowed only in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.108             \mathcal
-                          {F}^{-1}[\hat{f}](x) = f(x) = \frac{1}{\sqrt{2\pi}...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no F in font nullfont!
-./Dynamic-Programming.tex:108: Missing $ inserted.
-<inserted text> 
-                $
-l.108             \mathcal{F}^
-                              {-1}[\hat{f}](x) = f(x) = \frac{1}{\sqrt{2\pi}...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./Dynamic-Programming.tex:108: Undefined control sequence.
-l.108 ...y}^{+\infty} \hat{f}(\xi) e^{i x \xi} \dd
-                                                  {\xi}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./Dynamic-Programming.tex:109: LaTeX Error: \begin{frame} on input line 103 ended by \end{equation*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.109         \end{equation*}
-                             }
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Dynamic-Programming.tex:109: Missing $ inserted.
-<inserted text> 
-                $
-l.109         \end{equation*}
-                             }
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 103--111
-[][]
- []
-
-
-Overfull \hbox (19.2795pt too wide) in paragraph at lines 103--111
-\OML/cmm/m/it/10 ^^X\OT1/cmr/m/n/10 ) =
- []
-
-
-Overfull \hbox (29.14066pt too wide) in paragraph at lines 103--111
-[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^X\OT1/cmr/m/n/10 ) =
- []
-
-
-Overfull \hbox (90.32266pt too wide) in paragraph at lines 103--111
-[] [][] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 e[]x$
- []
-
-
-Overfull \hbox (46.31256pt too wide) in paragraph at lines 103--111
-[]\OT1/cmr/m/n/10 [[]](\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
- []
-
-
-Overfull \hbox (30.02084pt too wide) in paragraph at lines 103--111
-\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
- []
-
-
-Overfull \hbox (82.31227pt too wide) in paragraph at lines 103--111
-[] [][] []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^X\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 e[]^^X$
- []
-
-Missing character: There is no Q in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-./Dynamic-Programming.tex:113: Undefined control sequence.
-l.113         \uncover
-                      <+>{\begin{equation*}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no < in font nullfont!
-Missing character: There is no + in font nullfont!
-Missing character: There is no > in font nullfont!
-
-./Dynamic-Programming.tex:113: LaTeX Error: Environment equation* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.113         \uncover<+>{\begin{equation*}
-                                           
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Dynamic-Programming.tex:114: Missing $ inserted.
-<inserted text> 
-                $
-l.114             \widehat
-                          {(f + \alpha g)}(\xi) = \frac{1}{\sqrt{2\pi}} \int...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./Dynamic-Programming.tex:114: Undefined control sequence.
-l.114 ...qrt{2\pi}} \int_{-\infty}^{+\infty} \prnt
-                                                  {f(x) + \alpha g(x)} e^{-i...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Dynamic-Programming.tex:114: Undefined control sequence.
-l.114 ...prnt{f(x) + \alpha g(x)} e^{-i x \xi} \dd
-                                                  {x}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./Dynamic-Programming.tex:115: LaTeX Error: \begin{frame} on input line 112 ended by \end{equation*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.115         \end{equation*}
-                             }
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Dynamic-Programming.tex:115: Missing $ inserted.
-<inserted text> 
-                $
-l.115         \end{equation*}
-                             }
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./Dynamic-Programming.tex:116: Undefined control sequence.
-l.116         \uncover
-                      <+>{\[ \Downarrow \]
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no < in font nullfont!
-Missing character: There is no + in font nullfont!
-Missing character: There is no > in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 112--116
-[][]
- []
-
-
-Overfull \hbox (60.7031pt too wide) in paragraph at lines 112--116
-[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^X\OT1/cmr/m/n/10 ) =
- []
-
-
-Overfull \hbox (127.60037pt too wide) in paragraph at lines 112--116
-[] [][] []\OML/cmm/m/it/10 e[]x$ 
- []
-
-
-Overfull \hbox (6.11111pt too wide) detected at line 116
-\OMS/cmsy/m/n/10 +
- []
-
-
-./Dynamic-Programming.tex:117: LaTeX Error: Environment equation* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.117         \begin{equation*}
-                               
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Dynamic-Programming.tex:118: Missing $ inserted.
-<inserted text> 
-                $
-l.118             \widehat
-                          {(f + \alpha g)}(\xi) = \frac{1}{\sqrt{2\pi}} \int...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./Dynamic-Programming.tex:118: Undefined control sequence.
-l.118 ...{-\infty}^{+\infty} f(x) e^{-i x \xi} \dd
-                                                  {x} + \frac{\alpha}{\sqrt{...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Dynamic-Programming.tex:118: Undefined control sequence.
-l.118 ...{-\infty}^{+\infty} g(x) e^{-i x \xi} \dd
-                                                  {x}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./Dynamic-Programming.tex:119: LaTeX Error: \begin{frame} on input line 112 ended by \end{equation*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.119         \end{equation*}
-                             }
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Dynamic-Programming.tex:119: Missing $ inserted.
-<inserted text> 
-                $
-l.119         \end{equation*}
-                             }
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./Dynamic-Programming.tex:120: Undefined control sequence.
-l.120         \uncover
-                      <+>{\[ \Downarrow \]
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no < in font nullfont!
-Missing character: There is no + in font nullfont!
-Missing character: There is no > in font nullfont!
-
-Overfull \hbox (60.7031pt too wide) in paragraph at lines 116--120
- $[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^X\OT1/cmr/m/n/10 ) =
- []
-
-
-Overfull \hbox (98.10046pt too wide) in paragraph at lines 116--120
-[] [][] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 e[]x \OT1/cmr/m/n/10 +
- []
-
-
-Overfull \hbox (89.47887pt too wide) in paragraph at lines 116--120
-[] [][] \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 e[]x$ 
- []
-
-
-Overfull \hbox (6.11111pt too wide) detected at line 120
-\OMS/cmsy/m/n/10 +
- []
-
-
-./Dynamic-Programming.tex:121: LaTeX Error: Environment equation* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.121         \begin{equation*}
-                               
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Dynamic-Programming.tex:122: Missing $ inserted.
-<inserted text> 
-                $
-l.122             \widehat
-                          {(f + \alpha g)}(\xi) = \hat{f}(\xi) + \alpha \hat...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-./Dynamic-Programming.tex:123: LaTeX Error: \begin{frame} on input line 112 ended by \end{equation*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.123         \end{equation*}
-                             }
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Dynamic-Programming.tex:123: Missing $ inserted.
-<inserted text> 
-                $
-l.123         \end{equation*}
-                             }
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Overfull \hbox (60.7031pt too wide) in paragraph at lines 120--125
- $[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^X\OT1/cmr/m/n/10 ) =
- []
-
-
-Overfull \hbox (26.36295pt too wide) in paragraph at lines 120--125
-[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^X\OT1/cmr/m/n/10 ) +
- []
-
-
-Overfull \hbox (24.17538pt too wide) in paragraph at lines 120--125
-\OML/cmm/m/it/10 ^^K[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^X\OT1/cmr/m/n/10 )$
- []
-
-Missing character: There is no Q in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-./Dynamic-Programming.tex:127: Undefined control sequence.
-l.127         \uncover
-                      <+>{\begin{equation*}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no < in font nullfont!
-Missing character: There is no + in font nullfont!
-Missing character: There is no > in font nullfont!
-
-./Dynamic-Programming.tex:127: LaTeX Error: Environment equation* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.127         \uncover<+>{\begin{equation*}
-                                           
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Dynamic-Programming.tex:128: Missing $ inserted.
-<inserted text> 
-                $
-l.128             \widehat
-                          {f'}(\xi) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./Dynamic-Programming.tex:128: Undefined control sequence.
-l.128 ...-\infty}^{+\infty} f'(x) e^{-i x \xi} \dd
-                                                  {x}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./Dynamic-Programming.tex:129: LaTeX Error: \begin{frame} on input line 126 ended by \end{equation*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.129         \end{equation*}
-                             }
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Dynamic-Programming.tex:129: Missing $ inserted.
-<inserted text> 
-                $
-l.129         \end{equation*}
-                             }
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./Dynamic-Programming.tex:130: Undefined control sequence.
-l.130         \uncover
-                      <+>{\[ \Downarrow \]
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no < in font nullfont!
-Missing character: There is no + in font nullfont!
-Missing character: There is no > in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 126--130
-[][]
- []
-
-
-Overfull \hbox (31.94621pt too wide) in paragraph at lines 126--130
-[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^X\OT1/cmr/m/n/10 ) =
- []
-
-
-Overfull \hbox (93.12822pt too wide) in paragraph at lines 126--130
-[] [][] \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 e[]x$ 
- []
-
-
-Overfull \hbox (6.11111pt too wide) detected at line 130
-\OMS/cmsy/m/n/10 +
- []
-
-
-./Dynamic-Programming.tex:131: LaTeX Error: Environment equation* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.131         \begin{equation*}
-                               
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Dynamic-Programming.tex:132: Missing $ inserted.
-<inserted text> 
-                $
-l.132             \widehat
-                          {f'}(\xi) = \eval{\frac{f(x) e^{-ix\xi}}{\sqrt{2\p...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./Dynamic-Programming.tex:132: Undefined control sequence.
-l.132             \widehat{f'}(\xi) = \eval
-                                           {\frac{f(x) e^{-ix\xi}}{\sqrt{2\p...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Dynamic-Programming.tex:132: Undefined control sequence.
-l.132 ...{-\infty}^{+\infty} f(x) e^{-i x \xi} \dd
-                                                  {x}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./Dynamic-Programming.tex:133: LaTeX Error: \begin{frame} on input line 126 ended by \end{equation*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.133         \end{equation*}
-                             }
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Dynamic-Programming.tex:133: Missing $ inserted.
-<inserted text> 
-                $
-l.133         \end{equation*}
-                             }
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./Dynamic-Programming.tex:134: Undefined control sequence.
-l.134         \uncover
-                      <+>{\[ \Downarrow \]
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no < in font nullfont!
-Missing character: There is no + in font nullfont!
-Missing character: There is no > in font nullfont!
-
-Overfull \hbox (31.94621pt too wide) in paragraph at lines 130--134
- $[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^X\OT1/cmr/m/n/10 ) =
- []
-
-
-Overfull \hbox (60.13045pt too wide) in paragraph at lines 130--134
-[][] \OT1/cmr/m/n/10 +
- []
-
-
-Overfull \hbox (11.058pt too wide) in paragraph at lines 130--134
-\OML/cmm/m/it/10 i^^X \OMS/cmsy/m/n/10 ^^A
- []
-
-
-Overfull \hbox (90.32266pt too wide) in paragraph at lines 130--134
-[] [][] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 e[]x$ 
- []
-
-
-Overfull \hbox (6.11111pt too wide) detected at line 134
-\OMS/cmsy/m/n/10 +
- []
-
-
-./Dynamic-Programming.tex:135: LaTeX Error: Environment equation* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.135         \begin{equation*}
-                               
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Dynamic-Programming.tex:136: Missing $ inserted.
-<inserted text> 
-                $
-l.136             \widehat
-                          {f'}(\xi) = i\xi \widehat{f}(\xi)
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-./Dynamic-Programming.tex:137: LaTeX Error: \begin{frame} on input line 126 ended by \end{equation*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.137         \end{equation*}
-                             }
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./Dynamic-Programming.tex:137: Missing $ inserted.
-<inserted text> 
-                $
-l.137         \end{equation*}
-                             }
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Overfull \hbox (31.94621pt too wide) in paragraph at lines 134--139
- $[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^X\OT1/cmr/m/n/10 ) =
- []
-
-
-Overfull \hbox (26.86536pt too wide) in paragraph at lines 134--139
-\OML/cmm/m/it/10 i^^X[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^X\OT1/cmr/m/n/10 )$
- []
-
-Missing character: There is no Q in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-./Dynamic-Programming.tex:142: Undefined control sequence.
-l.142         \huge
-                   {The inverse does work}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no T in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no k in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 140--143
- [][] 
- []
-
-
-./Dynamic-Programming.tex:144: LaTeX Error: The font size command \normalsize is not defined:
-               there is probably something wrong with the class file.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.144         \normalsize
-                         {for appropriate functions}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no f in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-./Dynamic-Programming.tex:146: Undefined control sequence.
-l.146         \tiny
-                   {and, sometimes, the Fourier Transform of a function is n...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no ' in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
 )
 ! Emergency stop.
 <*> Dynamic-Programming.tex
@@ -3516,11 +2439,11 @@ Missing character: There is no n in font nullfont!
 
  
 Here is how much of TeX's memory you used:
- 15 strings out of 494895
- 194 string characters out of 6176372
- 63691 words of memory out of 5000000
- 4003 multiletter control sequences out of 15000+600000
+ 15 strings out of 492609
+ 277 string characters out of 6128552
+ 63614 words of memory out of 5000000
+ 4036 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
+ 1141 hyphenation exceptions out of 8191
  18i,8n,12p,351b,81s stack positions out of 5000i,500n,10000p,200000b,80000s
-No pages of output.
+!  ==> Fatal error occurred, no output PDF file produced!

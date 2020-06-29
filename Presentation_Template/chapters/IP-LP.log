@@ -1,12 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.9.29)  28 JUN 2020 22:59
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.15)  29 JUN 2020 16:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **IP-LP.tex
 (./IP-LP.tex
-LaTeX2e <2018-04-01> patch level 2
-Babel <3.18> and hyphenation patterns for 6 language(s) loaded.
+LaTeX2e <2018-12-01>
 ./IP-LP.tex:1: Undefined control sequence.
 l.1 \section
             {Integer \& Linear Programming}
@@ -354,6 +353,10 @@ Overfull \hbox (72.74971pt too wide) in paragraph at lines 12--20
 \OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 g [][] []\OML/cmm/m/it/10 i:$ 
  []
 
+Missing character: There is no < in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no x in font nullfont!
@@ -372,6 +375,10 @@ Missing character: There is no b in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no m in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -1671,8 +1678,14 @@ Missing character: There is no ' in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no x in font nullfont!
 Missing character: There is no – in font nullfont!
-Missing character: There is no θ in font nullfont!
-Missing character: There is no λ in font nullfont!
+./IP-LP.tex:70: Missing $ inserted.
+<inserted text> 
+                $
+l.70         x' = x – \theta
+                            \lambda
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
 
 ./IP-LP.tex:71: LaTeX Error: \begin{frame} on input line 66 ended by \end{align}.
 
@@ -1685,6 +1698,17 @@ l.71         \end{align}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+./IP-LP.tex:71: Missing $ inserted.
+<inserted text> 
+                $
+l.71         \end{align}
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
 
 ./IP-LP.tex:72: LaTeX Error: \begin{frame} on input line 66 ended by \end{equation*}.
@@ -1725,9 +1749,17 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no ? in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 66--74
-[][]
- []
+./IP-LP.tex:74: LaTeX Error: Environment block undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74       \begin{block}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 Missing character: There is no C in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -1743,13 +1775,18 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 75--75
-[]
+Overfull \hbox (20.0pt too wide) in paragraph at lines 66--76
+ [][] 
  []
 
-./IP-LP.tex:75: Undefined control sequence.
-l.75       Cramer's rule: \[B^{-1} = B^*/\text
-                                              {det}(B)\]
+
+Overfull \hbox (10.80559pt too wide) in paragraph at lines 66--76
+ \OML/cmm/m/it/10 ^^R^^U$ 
+ []
+
+./IP-LP.tex:76: Undefined control sequence.
+l.76         {\centering\[B^{-1} = B^*/\text
+                                            {det}(B)\]}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1757,9 +1794,22 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (79.17708pt too wide) detected at line 75
+Overfull \hbox (79.17708pt too wide) detected at line 76
 \OML/cmm/m/it/10 B[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 B[]=[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 B\OT1/cmr/m/n/10 )
  []
+
+
+./IP-LP.tex:77: LaTeX Error: \begin{frame} on input line 66 ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77       \end{block}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 )
 ! Emergency stop.
@@ -1769,11 +1819,11 @@ Overfull \hbox (79.17708pt too wide) detected at line 75
 
  
 Here is how much of TeX's memory you used:
- 14 strings out of 494895
- 129 string characters out of 6176372
- 59691 words of memory out of 5000000
- 4002 multiletter control sequences out of 15000+600000
+ 15 strings out of 492909
+ 137 string characters out of 6132501
+ 68519 words of memory out of 5000000
+ 4171 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
+ 1348 hyphenation exceptions out of 8191
  19i,8n,12p,399b,117s stack positions out of 5000i,500n,10000p,200000b,80000s
 No pages of output.

@@ -63,51 +63,51 @@
 \defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {14}{14}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {2}{0}{2}{15/15}{}{0}}
+\headcommand {\slideentry {2}{0}{2}{15/16}{}{0}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@framepages {15}{16}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {2}{0}{3}{16/16}{}{0}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\beamer@framepages {16}{16}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {2}{0}{4}{17/17}{}{0}}
+\headcommand {\slideentry {2}{0}{3}{17/17}{}{0}}
 \defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {17}{17}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {2}{0}{5}{18/18}{}{0}}
+\headcommand {\slideentry {2}{0}{4}{18/18}{}{0}}
 \defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {18}{18}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {2}{0}{6}{19/19}{}{0}}
+\headcommand {\slideentry {2}{0}{5}{19/19}{}{0}}
 \defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {19}{19}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {2}{0}{7}{20/20}{}{0}}
+\headcommand {\slideentry {2}{0}{6}{20/20}{}{0}}
 \defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {20}{20}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@sectionpages {14}{20}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\beamer@subsectionpages {14}{20}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\sectionentry {3}{General Optimization Methods}{21}{General Optimization Methods}{0}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {3}{0}{1}{21/21}{}{0}}
+\headcommand {\slideentry {2}{0}{7}{21/21}{}{0}}
 \defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {21}{21}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@subsectionpages {21}{21}}
+\headcommand {\beamer@sectionpages {14}{21}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@subsectionentry {0}{3}{1}{22}{Exact Methods}}
+\headcommand {\beamer@subsectionpages {14}{21}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {3}{1}{1}{22/22}{Exact Methods}{0}}
+\headcommand {\sectionentry {3}{General Optimization Methods}{22}{General Optimization Methods}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{0}{1}{22/22}{}{0}}
 \defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {22}{22}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {3}{1}{2}{23/27}{Exact Methods}{0}}
+\headcommand {\beamer@subsectionpages {22}{22}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@framepages {23}{27}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{23}{Exact Methods}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{1}{23/23}{Exact Methods}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {23}{23}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{2}{24/27}{Exact Methods}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {24}{27}}
 \defcounter {refsection}{0}\relax 
 \headcommand {\slideentry {3}{1}{3}{28/28}{Exact Methods}{0}}
 \defcounter {refsection}{0}\relax 
@@ -117,89 +117,97 @@
 \defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {29}{29}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@subsectionpages {22}{29}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\beamer@subsectionentry {0}{3}{2}{30}{Approximate Methods}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {3}{2}{1}{30/30}{Approximate Methods}{0}}
+\headcommand {\slideentry {3}{1}{5}{30/30}{Exact Methods}{0}}
 \defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {30}{30}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {3}{2}{2}{31/35}{Approximate Methods}{0}}
+\headcommand {\slideentry {3}{1}{6}{31/31}{Exact Methods}{0}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@framepages {31}{35}}
+\headcommand {\beamer@framepages {31}{31}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {3}{2}{3}{36/36}{Approximate Methods}{0}}
+\headcommand {\slideentry {3}{1}{7}{32/34}{Exact Methods}{0}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\beamer@framepages {32}{34}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@sectionpages {21}{36}}
+\headcommand {\beamer@subsectionpages {23}{34}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@subsectionpages {30}{36}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{35}{Approximate Methods}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\sectionentry {4}{Combination Optimization}{37}{Combination Optimization}{0}}
+\headcommand {\slideentry {3}{2}{1}{35/35}{Approximate Methods}{0}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {4}{0}{1}{37/37}{}{0}}
+\headcommand {\beamer@framepages {35}{35}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\slideentry {3}{2}{2}{36/40}{Approximate Methods}{0}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {4}{0}{2}{38/38}{}{0}}
+\headcommand {\beamer@framepages {36}{40}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\beamer@sectionpages {22}{40}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {4}{0}{3}{39/40}{}{0}}
+\headcommand {\beamer@subsectionpages {35}{40}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@framepages {39}{40}}
+\headcommand {\sectionentry {4}{Combination Optimization}{41}{Combination Optimization}{0}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@sectionpages {37}{40}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\beamer@subsectionpages {37}{40}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\sectionentry {5}{Convex Optimization}{41}{Convex Optimization}{0}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {5}{0}{1}{41/41}{}{0}}
+\headcommand {\slideentry {4}{0}{1}{41/41}{}{0}}
 \defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {41}{41}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {5}{0}{2}{42/42}{}{0}}
+\headcommand {\slideentry {4}{0}{2}{42/42}{}{0}}
 \defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {42}{42}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@sectionpages {41}{42}}
+\headcommand {\slideentry {4}{0}{3}{43/44}{}{0}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@subsectionpages {41}{42}}
+\headcommand {\beamer@framepages {43}{44}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\sectionentry {6}{Acknowledgments}{43}{Acknowledgments}{0}}
+\headcommand {\beamer@sectionpages {41}{44}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {6}{0}{1}{43/43}{}{0}}
+\headcommand {\beamer@subsectionpages {41}{44}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\sectionentry {5}{Convex Optimization}{45}{Convex Optimization}{0}}
 \defcounter {refsection}{0}\relax 
-\headcommand {\beamer@sectionpages {43}{43}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\beamer@subsectionpages {43}{43}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\sectionentry {7}{References}{44}{References}{0}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\beamer@sectionpages {44}{43}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\beamer@subsectionpages {44}{43}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\sectionentry {8}{References}{44}{References}{0}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {8}{0}{0}{44/44}{}{0}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\beamer@framepages {44}{44}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\beamer@sectionpages {44}{44}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\beamer@subsectionpages {44}{44}}
-\defcounter {refsection}{0}\relax 
-\headcommand {\slideentry {9}{0}{1}{45/45}{}{0}}
+\headcommand {\slideentry {5}{0}{1}{45/45}{}{0}}
 \defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {45}{45}}
-\headcommand {\beamer@partpages {1}{45}}
-\headcommand {\beamer@subsectionpages {45}{45}}
-\headcommand {\beamer@sectionpages {45}{45}}
-\headcommand {\beamer@documentpages {45}}
-\headcommand {\gdef \inserttotalframenumber {35}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {5}{0}{2}{46/46}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {46}{46}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {45}{46}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {45}{46}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {6}{Acknowledgments}{47}{Acknowledgments}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {6}{0}{1}{47/47}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {47}{47}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {47}{47}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {47}{47}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {7}{References}{48}{References}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {48}{47}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {48}{47}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {8}{References}{48}{References}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {8}{0}{0}{48/48}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {48}{48}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {48}{48}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {48}{48}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {9}{0}{1}{49/49}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {49}{49}}
+\headcommand {\beamer@partpages {1}{49}}
+\headcommand {\beamer@subsectionpages {49}{49}}
+\headcommand {\beamer@sectionpages {49}{49}}
+\headcommand {\beamer@documentpages {49}}
+\headcommand {\gdef \inserttotalframenumber {37}}

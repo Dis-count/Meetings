@@ -11,6 +11,6 @@
 \defcounter {refsection}{0}\relax 
 \beamer@subsectionintoc {3}{2}{Approximate Methods}{35}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {4}{Combination Optimization}{41}{0}{4}
+\beamer@sectionintoc {4}{Combination Optimization}{43}{0}{4}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {5}{Convex Optimization}{45}{0}{5}
+\beamer@sectionintoc {5}{General Optimization problem}{50}{0}{5}

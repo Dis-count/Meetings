@@ -1,7 +1,117 @@
-\section{Convex Optimization}
+\section{General Optimization problem}
 
     \frame{\sectionpage}
 
     \begin{frame}{Convex Optimization}
-
+      \begin{itemize}
+        \only<1>{\item Linear Optimization
+        \item Non-Linear Optimization}
+        \only<2>{\item Convex Optimization
+        \item Non-Convex Optimization}
+      \end{itemize}
     \end{frame}
+
+    \begin{frame}{Convex Optimization}
+      \begin{itemize}
+        \item Convex set
+        \item Convex function
+        \item Convex optimization problem
+      \end{itemize}
+      \begin{equation*}
+        \begin{align}
+        \min &\quad f\end{align}(x) \\
+        \text{s.t.} &\quad g_i(x) \leq 0, i=1,2,...,m \\
+          &\quad h_j(x) = 0, j = 1,2,...,n
+        \end{align}
+      \end{equation*}
+    \end{frame}
+
+    \begin{frame}{Standard Problem}
+      \begin{itemize}
+        \item Linear Programming(LP)
+        \[
+        \begin{aligned}
+        \min &\quad c^Tx+d \\
+        s.t. &\quad G(x) \preceq h \\
+            &\quad A(x) = b
+        \end{aligned}
+        \]
+        \item Quadratic Programming(QP)
+        \[
+        \begin{aligned}
+        \min &\quad \frac{1}{2}x^TPx+c^Tx+d \\
+        s.t. &\quad G(x) \preceq h \\
+             &\quad A(x) = b
+        \end{aligned}
+        \]
+        \item Semidefinite Programming(SDP)
+        \[
+        \begin{aligned}
+        \min &\quad tr(CX) \\
+        s.t. &\quad tr(A_iX)=b_i, i=1,2,....p \\
+             &\quad X \succeq 0
+        \end{aligned}
+        \]
+        \item Cone Programming(CP)
+      \end{itemize}
+    \end{frame}
+
+    \begin{frame}{Other problems}
+      \begin{itemize}
+        \item Least squares
+        \item SVM
+        \item QCCP
+        \item SOCP
+        \item GP
+      \end{itemize}
+    \end{frame}
+
+    \begin{frame}{Property}
+      \begin{itemize}
+        \item Local = globle
+        \item Non \to Convex
+        \item Many method to solve and wide application.
+      \end{itemize}
+    \end{frame}
+
+    \begin{frame}{Methods}
+      \begin{itemize}
+        \item Gradient
+        Describe the basic iteration process.$x_{k+1}=x_k+\alpha_k d_k$
+        $\triangledown f(x_k)^Td_k < 0$
+        $f(x_{k+1}) = f(x_k+\alpha_k d_k) < f(x_k)$
+        \item Sub-gradient(for can't derivative)
+        \item Interior point
+      \end{itemize}
+    \end{frame}
+
+    \begin{frame}{Gradient}
+      Two essential elements: step and gradient. All kinds of methods are based on the fundamental.
+      \begin{itemize}
+        \item Random
+        \item Batch
+        \item ......
+      \end{itemize}
+      convergence condition
+    \end{frame}
+
+\begin{frame}{KKT}
+  \begin{itemize}
+    \item Interior Methods
+    \item Penelty
+    \item Dual
+    \item Lagrange
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Non-Convex}
+  \item convert to Convex
+  \item heuristics
+  The important thing is how to jump out of the local optimization.
+  Change the parameter by experience.
+\end{frame}
+
+\begin{frame}{Random optimization}
+  \item Methods
+  \item Algorithmic idea
+\end{frame}

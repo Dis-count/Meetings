@@ -1,6 +1,4 @@
-PWD E:/Files/Github/Meetings/Presentation_Template/chapters
-INPUT d:/Software/texlive/2019/texmf.cnf
-INPUT d:/Software/texlive/2019/texmf-dist/web2c/texmf.cnf
-INPUT d:/Software/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt
+PWD F:/Program Files/GitHub/Meetings/Presentation_Template/chapters
+INPUT c:/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt
 INPUT General-Optimization.tex
 OUTPUT General-Optimization.log

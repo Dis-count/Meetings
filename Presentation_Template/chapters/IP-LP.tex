@@ -9,7 +9,7 @@
 
     \begin{frame}{Integer Programming}
         \begin{itemize}
-          \item Shortest path problem
+          \item<+-> Shortest path problem
           \begin{equation*}
             \begin{align}
             \min& \sum_{(i,j)\in A}w_{ij}x_{ij}\\
@@ -23,12 +23,14 @@
     \end{frame}
 
     \begin{frame}{Totally Unimodular Matrix}
-      \begin{itemize}
-        \item Every entry in A is 0, +1, or −1;
-        \item Every column of A contains at most two non-zero (i.e., +1 or −1) entries;
-        \item If two non-zero entries in a column of A have the same sign, then the row of one is in B, and the other in C;
-        \item If two non-zero entries in a column of A have opposite signs, then the rows of both are in B, or both in C.
-      \end{itemize}
+      \begin{spacing}{1.5}
+        \begin{itemize}
+          \item Every entry in A is 0, +1, or −1;
+          \item Every column of A contains at most two non-zero (i.e., +1 or −1) entries;
+          \item If two non-zero entries in a column of A have the same sign, then the row of one is in B, and the other in C;
+          \item If two non-zero entries in a column of A have opposite signs, then the rows of both are in B, or both in C.
+        \end{itemize}
+      \end{spacing}
     \end{frame}
 
     \begin{frame}{TU Matrix}
@@ -47,32 +49,40 @@
         \end{align}
       \end{equation*}
       How to obtain the inverse of B?
-
-      Cramer's rule: \[B^{-1} = B^*/\text{det}(B)\]
+      \begin{block}
+        {Cramer's rule:}
+        {\centering\[B^{-1} = B^*/\text{det}(B)\]}
+      \end{block}
     \end{frame}
 
     \begin{frame}{Simplex Method}
-      \begin{itemize}
-        \item Feasible region(Convex polytope)
-        \item Basic feasible solution(Extreme point)
-        \item Basic variables(Identity matrix)
-        \item Entering variable selection
-        \item Leaving variable selection
-        \item Pivot operation
-        \item Reduced costs
-      \end{itemize}
+      \begin{spacing}{1.5}
+        \begin{itemize}
+          \item Feasible region(Convex polytope)
+          \item Basic feasible solution(Extreme point)
+          \item Basic variables(Identity matrix)
+          \item Entering variable selection
+          \item Leaving variable selection
+          \item Pivot operation
+          \item Reduced costs
+        \end{itemize}
+      \end{spacing}
     \end{frame}
 
     \begin{frame}{Another Perspective}
       The simplex method is an iteration process.
       \begin{equation*}
         \begin{align}
-        x' = x – \theta\lambda
+        x' = x - \theta\lambda
         \end{align}
       \end{equation*}
-      How to obtain the inverse of B?
-      \begin{block}
-        {Cramer's rule:}
-        {\centering\[B^{-1} = B^*/\text{det}(B)\]}
-      \end{block}
+      \begin{itemize}
+        \item $\lambda $: Gradient direction(As small as possible)
+
+        Entering variable selection
+
+        \item $\theta $: Step length(As long as possible)
+
+        Leaving variable selection
+      \end{itemize}
     \end{frame}

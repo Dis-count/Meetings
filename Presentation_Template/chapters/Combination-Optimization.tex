@@ -1,30 +1,38 @@
-\section{Combination Optimization}
+\section{Combinatorial Optimization}
 
     \frame{\sectionpage}
 
-    \begin{frame}{Combinatorial optimization}
-
-    \end{frame}
-
     \begin{frame}{Classical problems}
+      \large
+      \begin{spacing}{1.5}
       \begin{itemize}
-        \item Knapsack problem.
+        \item Knapsack problem
         \item Minimum spanning tree
         \item Traveling salesman problem
         \item Set cover problem
-        \item Matching
+        \item Matching problem
         \item Vehicle routing problem
         \item Facility Location Problem
         \item Production Scheduling Problem
       \end{itemize}
+      \end{spacing}
    \end{frame}
 
    \begin{frame}{NP-complete}
      \begin{itemize}
-       \item P
-       \item NP
-       \item NP-complete
-       \item NP-hard
+       \item \textcolor{green}{P(PTIME)}
+
+       It contains all decision problems that can be solved by a deterministic Turing machine using a polynomial amount of computation time, or polynomial time.
+       \item \textcolor{green}{NP(Nondeterministic Polynomial time)}
+
+       Class of computational decision problems for which a given yes-solution can be verified as a solution in polynomial time by a deterministic Turing machine.
+       \item \textcolor{green}{NP-complete}
+
+       Class of decision problems which contains the hardest problems in NP. Each NP-complete problem has to be in NP.
+       \item \textcolor{green}{NP-hard}
+       
+       A problem H is NP-hard when every problem L in NP can be reduced in polynomial time to H.
+       Class of problems which are at least as hard as the hardest problems in NP.
      \end{itemize}
 
    \end{frame}
@@ -35,14 +43,17 @@
    \end{frame}
 
    \begin{frame}{How to solve Combinatorial optimization problem}
-     \begin{itemize}
-       \item Branch and bound
-       \item Cutting plane
-       \item Column generation
-       \item ......
-     \end{itemize}
-
+     \Large
+     \begin{spacing}{1.5}
+       \begin{itemize}
+         \item Branch and bound
+         \item Cutting plane
+         \item Column generation
+         \item ......
+       \end{itemize}
+     \end{spacing}
    \end{frame}
+
 
    \begin{frame}{Summary}
      Finally, we should master how to settle a problem in that way, so that we will have more ideas and try different methods.

@@ -21,7 +21,7 @@ https://blog.csdn.net/daaikuaichuan/article/details/81382794
 
 逻辑线，时间线
 
-凸优化 -- LP,二次规划QP,二次约束的二次规划QCCP，半正定规划SDP 几何规划
+凸优化 -- LP,二次规划QP,二次约束的二次规划QCQP，半正定规划SDP 几何规划
 二阶锥规划SOCP 属于 linear conic programming
 copositive programming
 

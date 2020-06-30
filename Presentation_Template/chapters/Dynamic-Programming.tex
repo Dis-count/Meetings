@@ -15,21 +15,22 @@
     \begin{frame}{0-1 Knapsack Problem}
       \uncover<+>{Assume $ w_{1},\,w_{2},\,\ldots ,\,w_{n},\,W $ are strictly positive integers. Define $ m[i,w] $ to be the maximum value that can be attained with weight less than or equal to $ w $ using items up to $ i $.
       We can define $ m[i,w] $ recursively as follows:}
-        \uncover<+>{\begin{equation*}
-          $ m[0,\,w]=0 $
-        \end{equation*}
+
+        \uncover<+>{
         \begin{equation*}
-          $ m[i,\,w]=m[i-1,\,w] $ if $ w_{i}>w\,\! $
-        \end{equation*}
-        \begin{equation*}
-          $ m[i,\,w]=\max(m[i-1,\,w],\,m[i-1,w-w_{i}]+v_{i}) $ if $ w_{i}\leqslant w $.
+          \begin{align}
+            m[0,\,w]&=0 \\
+            m[i,\,w]&=m[i-1,\,w] ~\text{if}  ~w_{i}>w \\
+            m[i,\,w]&=\max(m[i-1,\,w],\,m[i-1,w-w_{i}]+v_{i}) ~\text{if} ~w_{i} \leq w. \\
+          \end{align}
         \end{equation*}}
+
     \end{frame}
 
     \begin{frame}{0-1 Knapsack Problem}
       \uncover<+->{The solution can then be found by calculating $ m[n,W] $. To do this efficiently, we can use a table to store previous computations.
       This solution will therefore run in $ O(nW) $ time and $ O(nW) $ space.}\\
-
+      \vspace{6pt}
       \centering
       \includegraphics[width = 0.8\textwidth]{images/0-1-knapsack-problem1.png}
     \end{frame}
@@ -77,17 +78,16 @@
     \end{frame}
 
     \begin{frame}{Shortest path problem}
+    \begin{spacing}{2}
     \begin{equation*}
       \begin{align}
     \textcolor{yellow}{Stage 1}\quad &F(C_l) = \min_m\{C_lT_m\} \\
-    \vspace{4pt}
     \textcolor{red}{Stage 2}\quad &F(B_k) = \min_l\{B_kC_l+F(C_l)\} \\
-    \vspace{4pt}
     \textcolor{blue}{Stage 3}\quad &F(A_j) = \min_k\{A_jB_k+F(B_k)\} \\
-    \vspace{4pt}
     \textcolor{green}{Stage 4}\quad &F(S_i) = \min_j\{S_iA_j+F(A_j)\}
-    \end{align}
+      \end{align}
     \end{equation*}
+    \end{spacing}
     \end{frame}
 
     \begin{frame}{Shortest path problem}

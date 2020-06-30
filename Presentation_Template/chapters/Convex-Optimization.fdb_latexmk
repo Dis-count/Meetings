@@ -3,10 +3,16 @@
   "Convex-Optimization.xdv" 0 -1 0 "xelatex"
   (generated)
   "Convex-Optimization.pdf"
-["xelatex"] 1593442279 "Convex-Optimization.tex" "Convex-Optimization.xdv" "Convex-Optimization" 1593442280
-  "Convex-Optimization.aux" 1593359230 9 a94a2480d3289e625eea47cd1b285758 ""
-  "Convex-Optimization.tex" 1593442278 3090 23f3101d103c21578f94794a3837dc1e ""
-  "c:/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt" 1538210572 2482158 4629f37b26778d848d091c40e14b89a9 ""
+["xelatex"] 1593507710 "Convex-Optimization.tex" "Convex-Optimization.xdv" "Convex-Optimization" 1593507710
+  "Convex-Optimization.aux" 1593391548 9 a94a2480d3289e625eea47cd1b285758 ""
+  "Convex-Optimization.tex" 1593507709 4080 d47dad45a587cbad421e622f94cc1b4a ""
+  "d:/Software/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1563197783 3332 103109f5612ad95229751940c61aada0 ""
+  "d:/Software/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1563197268 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "d:/Software/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm" 1563197268 1332 f817c21a1ba54560425663374f1b651a ""
+  "d:/Software/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm" 1563197268 1336 3125ccb448c1a09074e3aa4a9832f130 ""
+  "d:/Software/texlive/2019/texmf-dist/web2c/texmf.cnf" 1563198096 36005 b5215be59893aa23abcf55b744114feb ""
+  "d:/Software/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1563199821 3752671 7da3ca06bc92b79365184f1d5b64495f ""
+  "d:/Software/texlive/2019/texmf.cnf" 1563199635 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   (generated)
-  "Convex-Optimization.xdv"
   "Convex-Optimization.log"
+  "Convex-Optimization.xdv"

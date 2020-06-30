@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.15)  29 JUN 2020 16:16
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.15)  30 JUN 2020 16:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -120,6 +120,10 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 10--11
 [][] 
  []
 
+Missing character: There is no < in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -420,7 +424,23 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no x in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 25--26
+./IP-LP.tex:26: LaTeX Error: Environment spacing undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26       \begin{spacing}
+                          {1.5}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--27
 [][] 
  []
 
@@ -677,6 +697,19 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no . in font nullfont!
+
+./IP-LP.tex:33: LaTeX Error: \begin{frame} on input line 25 ended by \end{spacing}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33       \end{spacing}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 Missing character: There is no T in font nullfont!
 Missing character: There is no U in font nullfont!
 Missing character: There is no M in font nullfont!
@@ -686,7 +719,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no x in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 34--35
+Overfull \hbox (20.0pt too wide) in paragraph at lines 36--37
 [][] 
  []
 
@@ -1126,52 +1159,52 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (38.93169pt too wide) in paragraph at lines 37--38
+Overfull \hbox (38.93169pt too wide) in paragraph at lines 39--40
 \OMS/cmsy/m/n/10 f[] \OML/cmm/m/it/10 cx \OMS/cmsy/m/n/10 j
  []
 
 
-Overfull \hbox (23.7708pt too wide) in paragraph at lines 37--38
+Overfull \hbox (23.7708pt too wide) in paragraph at lines 39--40
 \OML/cmm/m/it/10 Ax \OMS/cmsy/m/n/10 ^^U
  []
 
 
-Overfull \hbox (25.00685pt too wide) in paragraph at lines 37--38
+Overfull \hbox (25.00685pt too wide) in paragraph at lines 39--40
 \OML/cmm/m/it/10 b; x \OMS/cmsy/m/n/10 ^^U
  []
 
 
-Overfull \hbox (10.00003pt too wide) in paragraph at lines 37--38
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 39--40
 \OT1/cmr/m/n/10 0\OMS/cmsy/m/n/10 g$
  []
 
 
-Overfull \hbox (40.87614pt too wide) in paragraph at lines 37--38
+Overfull \hbox (40.87614pt too wide) in paragraph at lines 39--40
 \OMS/cmsy/m/n/10 f[] \OML/cmm/m/it/10 cx \OMS/cmsy/m/n/10 j
  []
 
 
-Overfull \hbox (23.7708pt too wide) in paragraph at lines 37--38
+Overfull \hbox (23.7708pt too wide) in paragraph at lines 39--40
 \OML/cmm/m/it/10 Ax \OMS/cmsy/m/n/10 ^^T
  []
 
 
-Overfull \hbox (9.29167pt too wide) in paragraph at lines 37--38
+Overfull \hbox (9.29167pt too wide) in paragraph at lines 39--40
 \OML/cmm/m/it/10 b\OMS/cmsy/m/n/10 g$
  []
 
 
-Overfull \hbox (16.27078pt too wide) in paragraph at lines 37--38
+Overfull \hbox (16.27078pt too wide) in paragraph at lines 39--40
 \OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 x \OMS/cmsy/m/n/10 j
  []
 
 
-Overfull \hbox (23.7708pt too wide) in paragraph at lines 37--38
+Overfull \hbox (23.7708pt too wide) in paragraph at lines 39--40
 \OML/cmm/m/it/10 Ax \OMS/cmsy/m/n/10 ^^U
  []
 
 
-Overfull \hbox (9.29167pt too wide) in paragraph at lines 37--38
+Overfull \hbox (9.29167pt too wide) in paragraph at lines 39--40
 \OML/cmm/m/it/10 b\OMS/cmsy/m/n/10 g$
  []
 
@@ -1237,26 +1270,26 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no . in font nullfont!
 
-./IP-LP.tex:43: LaTeX Error: Environment equation* undefined.
+./IP-LP.tex:45: LaTeX Error: Environment equation* undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.43       \begin{equation*}
+l.45       \begin{equation*}
                             
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./IP-LP.tex:44: LaTeX Error: Environment align undefined.
+./IP-LP.tex:46: LaTeX Error: Environment align undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44         \begin{align}
+l.46         \begin{align}
                           
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1264,8 +1297,8 @@ or  <return>  to continue without it.
 
 Missing character: There is no B in font nullfont!
 Missing character: There is no x in font nullfont!
-./IP-LP.tex:45: Misplaced alignment tab character &.
-l.45         Bx &
+./IP-LP.tex:47: Misplaced alignment tab character &.
+l.47         Bx &
                  = b \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1277,16 +1310,16 @@ might try typing `S' now just to see what is salvageable.
 Missing character: There is no = in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no x in font nullfont!
-./IP-LP.tex:46: Missing $ inserted.
+./IP-LP.tex:48: Missing $ inserted.
 <inserted text> 
                 $
-l.46         x^
+l.48         x^
                * &= (B^{-1}b,0) \\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./IP-LP.tex:46: Misplaced alignment tab character &.
-l.46         x^* &
+./IP-LP.tex:48: Misplaced alignment tab character &.
+l.48         x^* &
                   = (B^{-1}b,0) \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1296,22 +1329,22 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-./IP-LP.tex:47: LaTeX Error: \begin{frame} on input line 41 ended by \end{align}.
+./IP-LP.tex:49: LaTeX Error: \begin{frame} on input line 43 ended by \end{align}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47         \end{align}
+l.49         \end{align}
                         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./IP-LP.tex:47: Missing $ inserted.
+./IP-LP.tex:49: Missing $ inserted.
 <inserted text> 
                 $
-l.47         \end{align}
+l.49         \end{align}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1320,13 +1353,13 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-./IP-LP.tex:48: LaTeX Error: \begin{frame} on input line 41 ended by \end{equation*}.
+./IP-LP.tex:50: LaTeX Error: \begin{frame} on input line 43 ended by \end{equation*}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.48       \end{equation*}
+l.50       \end{equation*}
                           
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1358,19 +1391,17 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no ? in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 41--50
-[][]
- []
+./IP-LP.tex:52: LaTeX Error: Environment block undefined.
 
-
-Overfull \hbox (15.15274pt too wide) in paragraph at lines 41--50
-[] \OT1/cmr/m/n/10 =
- []
-
-
-Overfull \hbox (40.33684pt too wide) in paragraph at lines 41--50
-\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 B[]b; \OT1/cmr/m/n/10 0)[] 
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52       \begin{block}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 Missing character: There is no C in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -1386,13 +1417,23 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 51--51
-[]
+Overfull \hbox (20.0pt too wide) in paragraph at lines 43--54
+ [][] 
  []
 
-./IP-LP.tex:51: Undefined control sequence.
-l.51       Cramer's rule: \[B^{-1} = B^*/\text
-                                              {det}(B)\]
+
+Overfull \hbox (15.15274pt too wide) in paragraph at lines 43--54
+ [] \OT1/cmr/m/n/10 = 
+ []
+
+
+Overfull \hbox (40.33684pt too wide) in paragraph at lines 43--54
+ \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 B[]b; \OT1/cmr/m/n/10 0)[]  
+ []
+
+./IP-LP.tex:54: Undefined control sequence.
+l.54         {\centering\[B^{-1} = B^*/\text
+                                            {det}(B)\]}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1400,9 +1441,22 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (79.17708pt too wide) detected at line 51
+Overfull \hbox (79.17708pt too wide) detected at line 54
 \OML/cmm/m/it/10 B[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 B[]=[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 B\OT1/cmr/m/n/10 )
  []
+
+
+./IP-LP.tex:55: LaTeX Error: \begin{frame} on input line 43 ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55       \end{block}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 Missing character: There is no S in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -1418,7 +1472,23 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 54--55
+./IP-LP.tex:59: LaTeX Error: Environment spacing undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59       \begin{spacing}
+                          {1.5}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 58--60
 [][] 
  []
 
@@ -1592,6 +1662,19 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
+
+./IP-LP.tex:69: LaTeX Error: \begin{frame} on input line 58 ended by \end{spacing}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69       \end{spacing}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 Missing character: There is no A in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -1648,26 +1731,26 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-./IP-LP.tex:68: LaTeX Error: Environment equation* undefined.
+./IP-LP.tex:74: LaTeX Error: Environment equation* undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.68       \begin{equation*}
+l.74       \begin{equation*}
                             
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./IP-LP.tex:69: LaTeX Error: Environment align undefined.
+./IP-LP.tex:75: LaTeX Error: Environment align undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.69         \begin{align}
+l.75         \begin{align}
                           
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1677,32 +1760,32 @@ Missing character: There is no x in font nullfont!
 Missing character: There is no ' in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no x in font nullfont!
-Missing character: There is no – in font nullfont!
-./IP-LP.tex:70: Missing $ inserted.
+Missing character: There is no - in font nullfont!
+./IP-LP.tex:76: Missing $ inserted.
 <inserted text> 
                 $
-l.70         x' = x – \theta
+l.76         x' = x - \theta
                             \lambda
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-./IP-LP.tex:71: LaTeX Error: \begin{frame} on input line 66 ended by \end{align}.
+./IP-LP.tex:77: LaTeX Error: \begin{frame} on input line 72 ended by \end{align}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.71         \end{align}
+l.77         \end{align}
                         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./IP-LP.tex:71: Missing $ inserted.
+./IP-LP.tex:77: Missing $ inserted.
 <inserted text> 
                 $
-l.71         \end{align}
+l.77         \end{align}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1711,106 +1794,153 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-./IP-LP.tex:72: LaTeX Error: \begin{frame} on input line 66 ended by \end{equation*}.
+./IP-LP.tex:78: LaTeX Error: \begin{frame} on input line 72 ended by \end{equation*}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.72       \end{equation*}
+l.78       \end{equation*}
                           
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-Missing character: There is no H in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 72--79
+[][]
+ []
+
+
+Overfull \hbox (10.80559pt too wide) in paragraph at lines 72--79
+\OML/cmm/m/it/10 ^^R^^U$ 
+ []
+
+Missing character: There is no : in font nullfont!
+Missing character: There is no G in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no A in font nullfont!
 Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no ? in font nullfont!
-
-./IP-LP.tex:74: LaTeX Error: Environment block undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.74       \begin{block}
-                        
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no C in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no ' in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (5.83336pt too wide) in paragraph at lines 80--81
+\OML/cmm/m/it/10 ^^U$
+ []
+
+Missing character: There is no E in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no : in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ) in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 66--76
- [][] 
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 84--85
+\OML/cmm/m/it/10 ^^R$
  []
 
-
-Overfull \hbox (10.80559pt too wide) in paragraph at lines 66--76
- \OML/cmm/m/it/10 ^^R^^U$ 
- []
-
-./IP-LP.tex:76: Undefined control sequence.
-l.76         {\centering\[B^{-1} = B^*/\text
-                                            {det}(B)\]}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (79.17708pt too wide) detected at line 76
-\OML/cmm/m/it/10 B[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 B[]=[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 B\OT1/cmr/m/n/10 )
- []
-
-
-./IP-LP.tex:77: LaTeX Error: \begin{frame} on input line 66 ended by \end{block}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.77       \end{block}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+Missing character: There is no L in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
 )
 ! Emergency stop.
 <*> IP-LP.tex
@@ -1819,10 +1949,10 @@ or  <return>  to continue without it.
 
  
 Here is how much of TeX's memory you used:
- 15 strings out of 492909
- 137 string characters out of 6132501
+ 16 strings out of 492909
+ 147 string characters out of 6132501
  68519 words of memory out of 5000000
- 4171 multiletter control sequences out of 15000+600000
+ 4172 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  19i,8n,12p,399b,117s stack positions out of 5000i,500n,10000p,200000b,80000s

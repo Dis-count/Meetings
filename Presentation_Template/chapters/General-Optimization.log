@@ -1,12 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.9.29)  29 JUN 2020 22:15
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.15)  30 JUN 2020 16:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **General-Optimization.tex
 (./General-Optimization.tex
-LaTeX2e <2018-04-01> patch level 2
-Babel <3.18> and hyphenation patterns for 6 language(s) loaded.
+LaTeX2e <2018-12-01>
 ./General-Optimization.tex:1: Undefined control sequence.
 l.1 \section
             {General Optimization Methods}
@@ -228,8 +227,31 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no s in font nullfont!
+./General-Optimization.tex:12: Undefined control sequence.
+l.12       \Large
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 11--12
+
+./General-Optimization.tex:13: LaTeX Error: Environment spacing undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13       \begin{spacing}
+                          {2}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 2 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 11--14
 [][] 
  []
 
@@ -296,6 +318,19 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
+
+./General-Optimization.tex:22: LaTeX Error: \begin{frame} on input line 11 ended by \end{spacing}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22       \end{spacing}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 Missing character: There is no B in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -310,8 +345,8 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
-./General-Optimization.tex:24: Undefined control sequence.
-l.24       \includegraphics
+./General-Optimization.tex:27: Undefined control sequence.
+l.27       \includegraphics
                            [width = 0.55\textwidth]{images/Branch.png}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -330,19 +365,19 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 5 in font nullfont!
-./General-Optimization.tex:24: Missing number, treated as zero.
+./General-Optimization.tex:27: Missing number, treated as zero.
 <to be read again> 
                    ]
-l.24 ...  \includegraphics[width = 0.55\textwidth]
+l.27 ...  \includegraphics[width = 0.55\textwidth]
                                                   {images/Branch.png}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-./General-Optimization.tex:24: Illegal unit of measure (pt inserted).
+./General-Optimization.tex:27: Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.24 ...  \includegraphics[width = 0.55\textwidth]
+l.27 ...  \includegraphics[width = 0.55\textwidth]
                                                   {images/Branch.png}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, bp, or sp; but yours is a new one!
@@ -370,7 +405,7 @@ Missing character: There is no p in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 22--26
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--29
 [][]
  []
 
@@ -392,8 +427,8 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
-./General-Optimization.tex:29: Undefined control sequence.
-l.29       \includegraphics
+./General-Optimization.tex:32: Undefined control sequence.
+l.32       \includegraphics
                            [width = 1\textwidth]{images/CP.png}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -409,19 +444,19 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no 1 in font nullfont!
-./General-Optimization.tex:29: Missing number, treated as zero.
+./General-Optimization.tex:32: Missing number, treated as zero.
 <to be read again> 
                    ]
-l.29       \includegraphics[width = 1\textwidth]
+l.32       \includegraphics[width = 1\textwidth]
                                                 {images/CP.png}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-./General-Optimization.tex:29: Illegal unit of measure (pt inserted).
+./General-Optimization.tex:32: Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.29       \includegraphics[width = 1\textwidth]
+l.32       \includegraphics[width = 1\textwidth]
                                                 {images/CP.png}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, bp, or sp; but yours is a new one!
@@ -445,7 +480,7 @@ Missing character: There is no p in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 27--31
+Overfull \hbox (20.0pt too wide) in paragraph at lines 30--34
 [][]
  []
 
@@ -461,7 +496,7 @@ Missing character: There is no C in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no t in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 32--33
+Overfull \hbox (20.0pt too wide) in paragraph at lines 35--36
 [][] 
  []
 
@@ -488,21 +523,21 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no : in font nullfont!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 36.
+(Font)              <7> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 36.
+(Font)              <5> on input line 39.
 
-Overfull \hbox (16.82236pt too wide) in paragraph at lines 35--37
+Overfull \hbox (16.82236pt too wide) in paragraph at lines 38--40
 \OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 +
  []
 
 
-Overfull \hbox (47.4103pt too wide) in paragraph at lines 35--37
+Overfull \hbox (47.4103pt too wide) in paragraph at lines 38--40
 [] []\OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (7.62094pt too wide) in paragraph at lines 35--37
+Overfull \hbox (7.62094pt too wide) in paragraph at lines 38--40
 []$ 
  []
 
@@ -564,12 +599,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (9.04456pt too wide) in paragraph at lines 38--39
+Overfull \hbox (9.04456pt too wide) in paragraph at lines 41--42
 \OML/cmm/m/it/10 x[]$
  []
 
 
-Overfull \hbox (9.92883pt too wide) in paragraph at lines 38--39
+Overfull \hbox (9.92883pt too wide) in paragraph at lines 41--42
 \OML/cmm/m/it/10 x[]$
  []
 
@@ -641,37 +676,37 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (16.82236pt too wide) in paragraph at lines 42--43
+Overfull \hbox (16.82236pt too wide) in paragraph at lines 45--46
 []$\OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 +
  []
 
 
-Overfull \hbox (51.85484pt too wide) in paragraph at lines 42--43
+Overfull \hbox (51.85484pt too wide) in paragraph at lines 45--46
 []\OMS/cmsy/m/n/10 b[]c\OML/cmm/m/it/10 x[] \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (27.06534pt too wide) in paragraph at lines 42--43
+Overfull \hbox (27.06534pt too wide) in paragraph at lines 45--46
 \OMS/cmsy/m/n/10 b[]c \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (15.39874pt too wide) in paragraph at lines 42--43
+Overfull \hbox (15.39874pt too wide) in paragraph at lines 45--46
 [] \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (24.28763pt too wide) in paragraph at lines 42--43
+Overfull \hbox (24.28763pt too wide) in paragraph at lines 45--46
 \OMS/cmsy/m/n/10 b[]c ^^@
  []
 
 
-Overfull \hbox (36.92603pt too wide) in paragraph at lines 42--43
+Overfull \hbox (36.92603pt too wide) in paragraph at lines 45--46
 []\OT1/cmr/m/n/10 ([] \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (40.18814pt too wide) in paragraph at lines 42--43
+Overfull \hbox (40.18814pt too wide) in paragraph at lines 45--46
 \OMS/cmsy/m/n/10 b[]c\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 x[]:$ 
  []
 
@@ -744,8 +779,8 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no : in font nullfont!
-./General-Optimization.tex:45: Undefined control sequence.
-l.45       \textcolor
+./General-Optimization.tex:48: Undefined control sequence.
+l.48       \textcolor
                      {red}{${\bar {b}}_{i}-\lfloor {\bar {b}}_{i}\rfloor -\s...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -803,27 +838,27 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (15.39874pt too wide) in paragraph at lines 44--47
+Overfull \hbox (15.39874pt too wide) in paragraph at lines 47--50
 [] \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (24.28763pt too wide) in paragraph at lines 44--47
+Overfull \hbox (24.28763pt too wide) in paragraph at lines 47--50
 \OMS/cmsy/m/n/10 b[]c ^^@
  []
 
 
-Overfull \hbox (36.92603pt too wide) in paragraph at lines 44--47
+Overfull \hbox (36.92603pt too wide) in paragraph at lines 47--50
 []\OT1/cmr/m/n/10 ([] \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (47.96587pt too wide) in paragraph at lines 44--47
+Overfull \hbox (47.96587pt too wide) in paragraph at lines 47--50
 \OMS/cmsy/m/n/10 b[]c\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 x[] \OMS/cmsy/m/n/10 ^^T
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 44--47
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 47--50
 \OT1/cmr/m/n/10 0$
  []
 
@@ -969,12 +1004,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no y in font nullfont!
 
-Overfull \hbox (10.63544pt too wide) in paragraph at lines 48--49
+Overfull \hbox (10.63544pt too wide) in paragraph at lines 51--52
 \OML/cmm/m/it/10 x[]$
  []
 
-./General-Optimization.tex:50: Undefined control sequence.
-l.50       \textcolor
+./General-Optimization.tex:53: Undefined control sequence.
+l.53       \textcolor
                      {red}{$x_{k}+\sum (\lfloor {\bar {a}}_{i,j}\rfloor -{\b...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -996,32 +1031,32 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (18.41324pt too wide) in paragraph at lines 50--51
+Overfull \hbox (18.41324pt too wide) in paragraph at lines 53--54
 []$\OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 +
  []
 
 
-Overfull \hbox (45.81491pt too wide) in paragraph at lines 50--51
+Overfull \hbox (45.81491pt too wide) in paragraph at lines 53--54
 []\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 b[]c ^^@
  []
 
 
-Overfull \hbox (39.07698pt too wide) in paragraph at lines 50--51
+Overfull \hbox (39.07698pt too wide) in paragraph at lines 53--54
 []\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (24.28763pt too wide) in paragraph at lines 50--51
+Overfull \hbox (24.28763pt too wide) in paragraph at lines 53--54
 \OMS/cmsy/m/n/10 b[]c ^^@
  []
 
 
-Overfull \hbox (34.92293pt too wide) in paragraph at lines 50--51
+Overfull \hbox (34.92293pt too wide) in paragraph at lines 53--54
 []\OML/cmm/m/it/10 ;  x[] \OMS/cmsy/m/n/10 ^^U
  []
 
 
-Overfull \hbox (21.74649pt too wide) in paragraph at lines 50--51
+Overfull \hbox (21.74649pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ;  x[][]$ 
  []
 
@@ -1039,8 +1074,8 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
-./General-Optimization.tex:56: Undefined control sequence.
-l.56       \includegraphics
+./General-Optimization.tex:59: Undefined control sequence.
+l.59       \includegraphics
                            [width = 0.7\textwidth]{images/branch_price.png}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1058,19 +1093,19 @@ Missing character: There is no = in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 7 in font nullfont!
-./General-Optimization.tex:56: Missing number, treated as zero.
+./General-Optimization.tex:59: Missing number, treated as zero.
 <to be read again> 
                    ]
-l.56       \includegraphics[width = 0.7\textwidth]
+l.59       \includegraphics[width = 0.7\textwidth]
                                                   {images/branch_price.png}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-./General-Optimization.tex:56: Illegal unit of measure (pt inserted).
+./General-Optimization.tex:59: Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.56       \includegraphics[width = 0.7\textwidth]
+l.59       \includegraphics[width = 0.7\textwidth]
                                                   {images/branch_price.png}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, bp, or sp; but yours is a new one!
@@ -1093,16 +1128,16 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
-./General-Optimization.tex:56: Missing $ inserted.
+./General-Optimization.tex:59: Missing $ inserted.
 <inserted text> 
                 $
-l.56 ...hics[width = 0.7\textwidth]{images/branch_
+l.59 ...hics[width = 0.7\textwidth]{images/branch_
                                                   price.png}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./General-Optimization.tex:56: Extra }, or forgotten $.
-l.56 ... = 0.7\textwidth]{images/branch_price.png}
+./General-Optimization.tex:59: Extra }, or forgotten $.
+l.59 ... = 0.7\textwidth]{images/branch_price.png}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1110,10 +1145,10 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-./General-Optimization.tex:57: Missing $ inserted.
+./General-Optimization.tex:60: Missing $ inserted.
 <inserted text> 
                 $
-l.57     \end{frame}
+l.60     \end{frame}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1121,10 +1156,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./General-Optimization.tex:57: Missing } inserted.
+./General-Optimization.tex:60: Missing } inserted.
 <inserted text> 
                 }
-l.57     \end{frame}
+l.60     \end{frame}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1133,12 +1168,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 54--58
+Overfull \hbox (20.0pt too wide) in paragraph at lines 57--61
 [][]
  []
 
 
-Overfull \hbox (40.78052pt too wide) in paragraph at lines 54--58
+Overfull \hbox (40.78052pt too wide) in paragraph at lines 57--61
 []\OML/cmm/m/it/10 rice:png$ 
  []
 
@@ -1154,8 +1189,33 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no s in font nullfont!
+./General-Optimization.tex:63: Undefined control sequence.
+l.63       \Large
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 59--60
+
+./General-Optimization.tex:64: LaTeX Error: Environment spacing undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       \begin{spacing}
+                          {1.5}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 62--65
 [][] 
  []
 
@@ -1237,8 +1297,21 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
-./General-Optimization.tex:70: Undefined control sequence.
-l.70     \subsection
+
+./General-Optimization.tex:71: LaTeX Error: \begin{frame} on input line 62 ended by \end{spacing}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71       \end{spacing}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./General-Optimization.tex:76: Undefined control sequence.
+l.76     \subsection
                     {Approximate Methods}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1264,10 +1337,10 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no s in font nullfont!
-./General-Optimization.tex:71: Undefined control sequence.
+./General-Optimization.tex:77: Undefined control sequence.
 <argument> \sectionpage 
                         
-l.71     \frame{\sectionpage}
+l.77     \frame{\sectionpage}
                              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1276,7 +1349,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 70--72
+Overfull \hbox (20.0pt too wide) in paragraph at lines 76--78
 []
  []
 
@@ -1298,8 +1371,17 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no s in font nullfont!
+./General-Optimization.tex:80: Undefined control sequence.
+l.80       \Large
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 73--74
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 79--81
 [][] 
  []
 
@@ -1504,8 +1586,31 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no s in font nullfont!
+./General-Optimization.tex:99: Undefined control sequence.
+l.99       \Large
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 91--92
+
+./General-Optimization.tex:100: LaTeX Error: Environment spacing undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100       \begin{spacing}
+                           {2}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 2 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 98--101
 [][] 
  []
 
@@ -1603,6 +1708,19 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
+
+./General-Optimization.tex:107: LaTeX Error: \begin{frame} on input line 98 ended by \end{spacing}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107       \end{spacing}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 Missing character: There is no P in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no p in font nullfont!
@@ -1629,8 +1747,31 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no s in font nullfont!
+./General-Optimization.tex:111: Undefined control sequence.
+l.111       \Large
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 100--101
+
+./General-Optimization.tex:112: LaTeX Error: Environment spacing undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112       \begin{spacing}
+                           {2}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 2 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 110--113
 [][] 
  []
 
@@ -1696,6 +1837,19 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
+
+./General-Optimization.tex:118: LaTeX Error: \begin{frame} on input line 110 ended by \end{spacing}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118       \end{spacing}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 )
 ! Emergency stop.
 <*> General-Optimization.tex
@@ -1704,11 +1858,11 @@ Missing character: There is no n in font nullfont!
 
  
 Here is how much of TeX's memory you used:
- 14 strings out of 494895
- 193 string characters out of 6176372
- 61691 words of memory out of 5000000
- 4002 multiletter control sequences out of 15000+600000
+ 15 strings out of 492909
+ 203 string characters out of 6132501
+ 70519 words of memory out of 5000000
+ 4171 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
+ 1348 hyphenation exceptions out of 8191
  18i,3n,12p,253b,160s stack positions out of 5000i,500n,10000p,200000b,80000s
 No pages of output.

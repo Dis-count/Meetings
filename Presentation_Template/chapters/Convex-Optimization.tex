@@ -2,33 +2,42 @@
 
     \frame{\sectionpage}
 
-    \begin{frame}{Convex Optimization}
+    \begin{frame}{Optimization problem}
       \begin{itemize}
-        \only<1>{\item Linear Optimization
-        \item Non-Linear Optimization}
-        \only<2>{\item Convex Optimization
-        \item Non-Convex Optimization}
+        \item Linear Optimization
+        \item Non-Linear Optimization
+      \end{itemize}
+
+      \begin{itemize}
+        \item Convex Optimization
+        \item Non-Convex Optimization
       \end{itemize}
     \end{frame}
 
     \begin{frame}{Convex Optimization}
       \begin{itemize}
-        \item Convex set
-        \item Convex function
-        \item Convex optimization problem
+        \item \textcolor{green}{Convex set}:
+        A set S is convex if for all members $ x,y\in S $ and all $ \theta \in [0,1] $, we have that $ \theta x+(1-\theta )y\in S $.
+        \item \textcolor{green}{Convex function}:
+        For all $\theta \in [0,1] $ and all $ x,y $ in $S$, the following condition holds: $f(\theta x+(1-\theta )y)\leq \theta f(x)+(1-\theta )f(y) $.
+
+        \item \textcolor{green}{Convex optimization}:
       \end{itemize}
       \begin{equation*}
         \begin{align}
-        \min &\quad f\end{align}(x) \\
+        \min &\quad f(x) \\
         \text{s.t.} &\quad g_i(x) \leq 0, i=1,2,...,m \\
           &\quad h_j(x) = 0, j = 1,2,...,n
         \end{align}
       \end{equation*}
+
+      \quad where $ \mathbf {x} \in \mathbb {R} ^{n} $ is the optimization variable, the function $ f:{\mathcal {D}}\subseteq \mathbb {R} ^{n}\to \mathbb {R} $ is convex, $ g_{i}:\mathbb {R} ^{n}\to \mathbb {R} $, $ i=1,\ldots ,m $, are convex, and $ h_{i}:\mathbb {R} ^{n}\to \mathbb {R} $, $ i=1,\ldots ,p $, are affine.
     \end{frame}
 
-    \begin{frame}{Standard Problem}
+    \begin{frame}{Standard Problems}
+      \vspace{-2pt}
       \begin{itemize}
-        \item Linear Programming(LP)
+        \item \textcolor{yellow}{Linear Programming(LP)}
         \[
         \begin{aligned}
         \min &\quad c^Tx+d \\
@@ -36,7 +45,7 @@
             &\quad A(x) = b
         \end{aligned}
         \]
-        \item Quadratic Programming(QP)
+        \item \textcolor{yellow}{Quadratic Programming(QP)}
         \[
         \begin{aligned}
         \min &\quad \frac{1}{2}x^TPx+c^Tx+d \\
@@ -44,7 +53,7 @@
              &\quad A(x) = b
         \end{aligned}
         \]
-        \item Semidefinite Programming(SDP)
+        \item \textcolor{yellow}{Semidefinite Programming(SDP)}
         \[
         \begin{aligned}
         \min &\quad tr(CX) \\
@@ -52,24 +61,25 @@
              &\quad X \succeq 0
         \end{aligned}
         \]
-        \item Cone Programming(CP)
       \end{itemize}
     \end{frame}
 
     \begin{frame}{Other problems}
+      \Large
       \begin{itemize}
         \item Least squares
-        \item SVM
-        \item QCCP
-        \item SOCP
-        \item GP
+        \item Support Vector Machine(SVM)
+        \item Quadratically Contrained Quadratic program(QCQP)
+        \item Second-Order Cone Program(SOCP)
+        \item Geometric Programming(GP)
+        \item Conic Optimization
       \end{itemize}
     \end{frame}
 
     \begin{frame}{Property}
       \begin{itemize}
         \item Local = globle
-        \item Non \to Convex
+        \item Non $\to$ Convex
         \item Many method to solve and wide application.
       \end{itemize}
     \end{frame}
@@ -101,6 +111,8 @@
     \item Penelty
     \item Dual
     \item Lagrange
+    \item Augmented Lagrangian
+    \item Alternating Direction Method of Multipliers(ADMM)
   \end{itemize}
 \end{frame}
 

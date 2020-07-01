@@ -1,16 +1,16 @@
 # Fdb version 3
-["biber main"] 1593572856 "main.bcf" "main.bbl" "main" 1593572864
-  "main.bcf" 1593572862 91133 da54762cc99721fa625a0ef14b8b2aed "xelatex"
+["biber main"] 1593572856 "main.bcf" "main.bbl" "main" 1593591286
+  "main.bcf" 1593591284 91133 da54762cc99721fa625a0ef14b8b2aed "xelatex"
   (generated)
-  "main.bbl"
   "main.blg"
-["xdvipdfmx"] 1593572862 "main.xdv" "main.pdf" "main" 1593572864
-  "main.xdv" 1593572862 1724764 43a0e81def5c434b17ed8e1063da188f "xelatex"
+  "main.bbl"
+["xdvipdfmx"] 1593591285 "main.xdv" "main.pdf" "main" 1593591287
+  "main.xdv" 1593591284 1728968 159fda48070dd645877fe633e1362fc0 "xelatex"
   (generated)
   "main.pdf"
-["xelatex"] 1593572857 "main.tex" "main.xdv" "main" 1593572864
+["xelatex"] 1593591280 "main.tex" "main.xdv" "main" 1593591286
   "chapters/Combination-Optimization.tex" 1593503531 2582 933cca427cb84a4f841196b676d6d8c2 ""
-  "chapters/Convex-Optimization.tex" 1593572846 7238 3026ce06125e79e7780175fa95658943 ""
+  "chapters/Convex-Optimization.tex" 1593591277 7786 7fc326d659814e1dfdc98c84f82f08e2 ""
   "chapters/Dynamic-Programming.tex" 1593506458 4021 a81a3125745c003f933ff8c8bcc44f8c ""
   "chapters/General-Optimization.tex" 1593572374 5613 9558955abeb863c2f3bb1b97d4229abd ""
   "chapters/IP-LP.tex" 1593506168 3694 5764e88a4315324416f9aad033017989 ""
@@ -262,21 +262,21 @@
   "images/branch_price.png" 1593391549 167773 5f9eb39d8b6eb068946b7f4e292d1060 ""
   "images/convex.png" 1593566500 27664 446a24c4ab72c2d37d082da7da2b0809 ""
   "images/opt.png" 1593391549 89550 ce1a5bec5bce2249925ed8a425ecd73e ""
-  "main.aux" 1593572862 19175 7424b11287e1fff72a754c4c9678a4c4 "xelatex"
+  "main.aux" 1593591284 19175 7424b11287e1fff72a754c4c9678a4c4 "xelatex"
   "main.bbl" 1593572857 486 d461c786d5ba60caa26aa3f363275b19 "biber main"
-  "main.nav" 1593572862 11213 5e9901ee736b8e3178df4aa96f500f6c "xelatex"
-  "main.out" 1593572862 546 0b748ee6b0ce397da2c7f7b02b3ff06d "xelatex"
-  "main.run.xml" 1593572862 2404 2b3439b69d8d3ab598d1340707d0da39 "xelatex"
-  "main.tex" 1593572849 1593 2d5aae058d24c7248a250fe6602f794b ""
-  "main.toc" 1593572862 804 3b05734bb64e6fa0231907484842884f "xelatex"
+  "main.nav" 1593591284 11213 5e9901ee736b8e3178df4aa96f500f6c "xelatex"
+  "main.out" 1593591284 546 0b748ee6b0ce397da2c7f7b02b3ff06d "xelatex"
+  "main.run.xml" 1593591284 2404 2b3439b69d8d3ab598d1340707d0da39 "xelatex"
+  "main.tex" 1593591279 1593 2d5aae058d24c7248a250fe6602f794b ""
+  "main.toc" 1593591284 804 3b05734bb64e6fa0231907484842884f "xelatex"
   "nul" 0 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "main.bcf"
   "main.nav"
-  "main.log"
-  "main.toc"
-  "main.run.xml"
-  "main.snm"
   "main.aux"
+  "main.run.xml"
+  "main.bcf"
+  "main.snm"
   "main.out"
   "main.xdv"
+  "main.log"
+  "main.toc"

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.15)  1 JUL 2020 11:07
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.15)  1 JUL 2020 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1633,42 +1633,7 @@ Underfull \hbox (badness 10000) detected at line 187
 
 [62
 
-]
-
-./chapters/Convex-Optimization.tex:192: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.192     \end{frame}
-                     
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 192
-[][]
- []
-
-
-./chapters/Convex-Optimization.tex:192: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.192     \end{frame}
-                     
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 192
-[][]
- []
-
-[63
+] [63
 
 ]) [64
 
@@ -1704,4 +1669,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  56i,19n,78p,798b,3878s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.xdv (65 pages, 1724764 bytes).
+Output written on main.xdv (65 pages, 1728968 bytes).

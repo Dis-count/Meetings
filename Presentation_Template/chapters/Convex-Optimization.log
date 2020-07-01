@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.15)  1 JUL 2020 11:08
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.15)  1 JUL 2020 16:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2164,17 +2164,51 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 114--116
 [][]
  []
 
-Missing character: There is no R in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -2183,6 +2217,29 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -2253,12 +2310,12 @@ Missing character: There is no K in font nullfont!
 Missing character: There is no K in font nullfont!
 Missing character: There is no T in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 126--127
+Overfull \hbox (20.0pt too wide) in paragraph at lines 127--128
 [][] 
  []
 
 
-Overfull \hbox (155.4606pt too wide) detected at line 127
+Overfull \hbox (155.4606pt too wide) detected at line 128
 \OML/cmm/m/it/10 L\OT1/cmr/m/n/10 (\OT1/cmr/bx/n/10 x\OML/cmm/m/it/10 ; ^^V; ^^U\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OT1/cmr/bx/n/10 x\OT1/cmr/m/n/10 ) + \OML/cmm/m/it/10 ^^V[]\OT1/cmr/bx/n/10 g\OT1/cmr/m/n/10 (\OT1/cmr/bx/n/10 x\OT1/cmr/m/n/10 ) + \OML/cmm/m/it/10 ^^U[]\OT1/cmr/bx/n/10 h\OT1/cmr/m/n/10 (\OT1/cmr/bx/n/10 x\OT1/cmr/m/n/10 )
  []
 
@@ -2270,34 +2327,34 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (30.31242pt too wide) in paragraph at lines 127--129
+Overfull \hbox (30.31242pt too wide) in paragraph at lines 128--130
   $\OT1/cmr/bx/n/10 g\OT1/cmr/m/n/10 (\OT1/cmr/bx/n/10 x\OT1/cmr/m/n/10 ) =
  []
 
 
-Overfull \hbox (86.06592pt too wide) in paragraph at lines 127--129
+Overfull \hbox (86.06592pt too wide) in paragraph at lines 128--130
 [][]$
  []
 
 
-Overfull \hbox (30.79158pt too wide) in paragraph at lines 127--129
+Overfull \hbox (30.79158pt too wide) in paragraph at lines 128--130
 \OT1/cmr/bx/n/10 h\OT1/cmr/m/n/10 (\OT1/cmr/bx/n/10 x\OT1/cmr/m/n/10 ) =
  []
 
 
-Overfull \hbox (84.30086pt too wide) in paragraph at lines 127--129
+Overfull \hbox (84.30086pt too wide) in paragraph at lines 128--130
 [][]$ 
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 130--130
+Overfull \hbox (20.0pt too wide) in paragraph at lines 131--131
 [] 
  []
 
-./Convex-Optimization.tex:131: Undefined control sequence.
+./Convex-Optimization.tex:132: Undefined control sequence.
 <recently read> \textcolor 
                            
-l.131         \item \textcolor
+l.132         \item \textcolor
                               {yellow}{Stationarity}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2325,34 +2382,34 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (19.46533pt too wide) in paragraph at lines 133--134
+Overfull \hbox (19.46533pt too wide) in paragraph at lines 134--135
 []$\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )$
  []
 
 
-Overfull \hbox (40.17372pt too wide) in paragraph at lines 133--134
+Overfull \hbox (40.17372pt too wide) in paragraph at lines 134--135
 \OMS/cmsy/m/n/10 r\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ) +
  []
 
 
-Overfull \hbox (77.33174pt too wide) in paragraph at lines 133--134
+Overfull \hbox (77.33174pt too wide) in paragraph at lines 134--135
 [][] \OML/cmm/m/it/10 ^^V[]\OMS/cmsy/m/n/10 r\OML/cmm/m/it/10 g[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ) +
  []
 
 
-Overfull \hbox (83.56206pt too wide) in paragraph at lines 133--134
+Overfull \hbox (83.56206pt too wide) in paragraph at lines 134--135
 [][] \OML/cmm/m/it/10 ^^U[]\OMS/cmsy/m/n/10 r\OML/cmm/m/it/10 h[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ) =
  []
 
 
-Overfull \hbox (5.74997pt too wide) in paragraph at lines 133--134
+Overfull \hbox (5.74997pt too wide) in paragraph at lines 134--135
 \OT1/cmr/bx/n/10 0$ 
  []
 
-./Convex-Optimization.tex:134: Undefined control sequence.
+./Convex-Optimization.tex:135: Undefined control sequence.
 <recently read> \textcolor 
                            
-l.134         \item \textcolor
+l.135         \item \textcolor
                               {yellow}{Primal feasibility}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2383,8 +2440,8 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
-./Convex-Optimization.tex:136: Undefined control sequence.
-l.136         $ g_{i}(x^{*})\leq 0,{\text
+./Convex-Optimization.tex:137: Undefined control sequence.
+l.137         $ g_{i}(x^{*})\leq 0,{\text
                                          { for }}i=1,\ldots ,m $
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2392,8 +2449,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./Convex-Optimization.tex:137: Undefined control sequence.
-l.137         $ h_{j}(x^{*})=0,{\text
+./Convex-Optimization.tex:138: Undefined control sequence.
+l.138         $ h_{j}(x^{*})=0,{\text
                                      { for }}j=1,\ldots ,\ell \,\! $
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2402,39 +2459,39 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (36.74478pt too wide) in paragraph at lines 136--138
+Overfull \hbox (36.74478pt too wide) in paragraph at lines 137--139
 []$\OML/cmm/m/it/10 g[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^T
  []
 
 
-Overfull \hbox (39.05392pt too wide) in paragraph at lines 136--138
+Overfull \hbox (39.05392pt too wide) in paragraph at lines 137--139
 \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; []i \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (36.00221pt too wide) in paragraph at lines 136--138
+Overfull \hbox (36.00221pt too wide) in paragraph at lines 137--139
 \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; [] ; m$
  []
 
 
-Overfull \hbox (38.62096pt too wide) in paragraph at lines 136--138
+Overfull \hbox (38.62096pt too wide) in paragraph at lines 137--139
 \OML/cmm/m/it/10 h[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ) =
  []
 
 
-Overfull \hbox (40.29929pt too wide) in paragraph at lines 136--138
+Overfull \hbox (40.29929pt too wide) in paragraph at lines 137--139
 \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; []j \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (31.38876pt too wide) in paragraph at lines 136--138
+Overfull \hbox (31.38876pt too wide) in paragraph at lines 137--139
 \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; [] ; `  $ 
  []
 
-./Convex-Optimization.tex:138: Undefined control sequence.
+./Convex-Optimization.tex:139: Undefined control sequence.
 <recently read> \textcolor 
                            
-l.138         \item \textcolor
+l.139         \item \textcolor
                               {yellow}{Dual feasibility}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2463,8 +2520,8 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
-./Convex-Optimization.tex:140: Undefined control sequence.
-l.140         $\mu _{i}\geq 0,{\text
+./Convex-Optimization.tex:141: Undefined control sequence.
+l.141         $\mu _{i}\geq 0,{\text
                                     { for }}i=1,\ldots ,m $
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2473,24 +2530,24 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (19.91028pt too wide) in paragraph at lines 140--141
+Overfull \hbox (19.91028pt too wide) in paragraph at lines 141--142
 []$\OML/cmm/m/it/10 ^^V[] \OMS/cmsy/m/n/10 ^^U
  []
 
 
-Overfull \hbox (39.05392pt too wide) in paragraph at lines 140--141
+Overfull \hbox (39.05392pt too wide) in paragraph at lines 141--142
 \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; []i \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (36.00221pt too wide) in paragraph at lines 140--141
+Overfull \hbox (36.00221pt too wide) in paragraph at lines 141--142
 \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; [] ; m$ 
  []
 
-./Convex-Optimization.tex:141: Undefined control sequence.
+./Convex-Optimization.tex:142: Undefined control sequence.
 <recently read> \textcolor 
                            
-l.141         \item \textcolor
+l.142         \item \textcolor
                               {yellow}{Complementary slackness}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2526,8 +2583,8 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
-./Convex-Optimization.tex:143: Undefined control sequence.
-l.143         $ \mu _{i}g_{i}(x^{*})=0,{\text
+./Convex-Optimization.tex:144: Undefined control sequence.
+l.144         $ \mu _{i}g_{i}(x^{*})=0,{\text
                                              { for }}\;i=1,\ldots ,m. $
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2536,17 +2593,17 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (46.09955pt too wide) in paragraph at lines 143--144
+Overfull \hbox (46.09955pt too wide) in paragraph at lines 144--145
 []$\OML/cmm/m/it/10 ^^V[]g[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ) =
  []
 
 
-Overfull \hbox (41.83163pt too wide) in paragraph at lines 143--144
+Overfull \hbox (41.83163pt too wide) in paragraph at lines 144--145
 \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; [] i \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (38.78pt too wide) in paragraph at lines 143--144
+Overfull \hbox (38.78pt too wide) in paragraph at lines 144--145
 \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; [] ; m:$ 
  []
 
@@ -2688,12 +2745,12 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (19.33565pt too wide) in paragraph at lines 145--146
+Overfull \hbox (19.33565pt too wide) in paragraph at lines 146--147
 \OML/cmm/m/it/10 m \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 145--146
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 146--147
 \OT1/cmr/m/n/10 0$
  []
 
@@ -2705,26 +2762,26 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
 
-./Convex-Optimization.tex:150: LaTeX Error: Environment equation* undefined.
+./Convex-Optimization.tex:151: LaTeX Error: Environment equation* undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.150       \begin{equation*}
+l.151       \begin{equation*}
                              
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./Convex-Optimization.tex:151: LaTeX Error: Environment align undefined.
+./Convex-Optimization.tex:152: LaTeX Error: Environment align undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.151         \begin{align}
+l.152         \begin{align}
                            
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2734,16 +2791,16 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no ( in font nullfont!
 Missing character: There is no x in font nullfont!
 Missing character: There is no , in font nullfont!
-./Convex-Optimization.tex:152: Missing $ inserted.
+./Convex-Optimization.tex:153: Missing $ inserted.
 <inserted text> 
                 $
-l.152         f(x,\lambda
+l.153         f(x,\lambda
                          )=& f_{0}(x)+\sum_{i=1}^{m}\lambda_{i}f_{i}(x) \\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Convex-Optimization.tex:152: Misplaced alignment tab character &.
-l.152         f(x,\lambda)=&
+./Convex-Optimization.tex:153: Misplaced alignment tab character &.
+l.153         f(x,\lambda)=&
                              f_{0}(x)+\sum_{i=1}^{m}\lambda_{i}f_{i}(x) \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2752,8 +2809,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./Convex-Optimization.tex:153: Misplaced alignment tab character &.
-l.153         g(\lambda)=&
+./Convex-Optimization.tex:154: Misplaced alignment tab character &.
+l.154         g(\lambda)=&
                            \min_{x\in {\mathcal {D}}}  f(x,\lambda) \text{Co...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2762,8 +2819,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./Convex-Optimization.tex:153: Undefined control sequence.
-l.153 ...{x\in {\mathcal {D}}}  f(x,\lambda) \text
+./Convex-Optimization.tex:154: Undefined control sequence.
+l.154 ...{x\in {\mathcal {D}}}  f(x,\lambda) \text
                                                   {Concave}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2772,22 +2829,22 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-./Convex-Optimization.tex:154: LaTeX Error: \begin{frame} on input line 149 ended by \end{align}.
+./Convex-Optimization.tex:155: LaTeX Error: \begin{frame} on input line 150 ended by \end{align}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.154       \end{align}
+l.155       \end{align}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./Convex-Optimization.tex:154: Missing $ inserted.
+./Convex-Optimization.tex:155: Missing $ inserted.
 <inserted text> 
                 $
-l.154       \end{align}
+l.155       \end{align}
                        
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2796,45 +2853,45 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-./Convex-Optimization.tex:155: LaTeX Error: \begin{frame} on input line 149 ended by \end{equation*}.
+./Convex-Optimization.tex:156: LaTeX Error: \begin{frame} on input line 150 ended by \end{equation*}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.155       \end{equation*}
+l.156       \end{equation*}
                            
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 149--156
+Overfull \hbox (20.0pt too wide) in paragraph at lines 150--157
 [][]
  []
 
 
-Overfull \hbox (20.27777pt too wide) in paragraph at lines 149--156
+Overfull \hbox (20.27777pt too wide) in paragraph at lines 150--157
 \OML/cmm/m/it/10 ^^U\OT1/cmr/m/n/10 ) =
  []
 
 
-Overfull \hbox (30.65286pt too wide) in paragraph at lines 149--156
+Overfull \hbox (30.65286pt too wide) in paragraph at lines 150--157
 \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) +
  []
 
 
-Overfull \hbox (56.5574pt too wide) in paragraph at lines 149--156
+Overfull \hbox (56.5574pt too wide) in paragraph at lines 150--157
 [][] \OML/cmm/m/it/10 ^^U[]f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )[] 
  []
 
 
-Overfull \hbox (29.29514pt too wide) in paragraph at lines 149--156
+Overfull \hbox (29.29514pt too wide) in paragraph at lines 150--157
 \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^U\OT1/cmr/m/n/10 ) =
  []
 
 
-Overfull \hbox (103.12929pt too wide) in paragraph at lines 149--156
+Overfull \hbox (103.12929pt too wide) in paragraph at lines 150--157
 [][] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; ^^U\OT1/cmr/m/n/10 )[]$
  []
 
@@ -2908,32 +2965,32 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 157--159
+Overfull \hbox (20.0pt too wide) in paragraph at lines 158--160
 []
  []
 
 
-Overfull \hbox (9.62848pt too wide) in paragraph at lines 157--159
+Overfull \hbox (9.62848pt too wide) in paragraph at lines 158--160
 \OML/cmm/m/it/10 p[]$
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 160--160
+Overfull \hbox (20.0pt too wide) in paragraph at lines 161--161
 [][] 
  []
 
 
-Overfull \hbox (44.47911pt too wide) detected at line 160
+Overfull \hbox (44.47911pt too wide) detected at line 161
 \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^U\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^T \OML/cmm/m/it/10 p[]:
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 162--162
+Overfull \hbox (20.0pt too wide) in paragraph at lines 163--163
 [][] 
  []
 
 
-Overfull \hbox (152.8195pt too wide) detected at line 162
+Overfull \hbox (152.8195pt too wide) detected at line 163
 [] [] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; ^^U\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^T [] [] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; ^^U\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 :
  []
 
@@ -2953,27 +3010,27 @@ Missing character: There is no y in font nullfont!
 Missing character: There is no : in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 164--165
+Overfull \hbox (20.0pt too wide) in paragraph at lines 165--166
 []
  []
 
 
-Overfull \hbox (20.3576pt too wide) in paragraph at lines 164--165
+Overfull \hbox (20.3576pt too wide) in paragraph at lines 165--166
 \OML/cmm/m/it/10 d[] \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (65.05215pt too wide) in paragraph at lines 164--165
+Overfull \hbox (65.05215pt too wide) in paragraph at lines 165--166
 [][] \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^U\OT1/cmr/m/n/10 ) =
  []
 
 
-Overfull \hbox (38.27084pt too wide) in paragraph at lines 164--165
+Overfull \hbox (38.27084pt too wide) in paragraph at lines 165--166
 [] \OML/cmm/m/it/10 f[] \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (9.62848pt too wide) in paragraph at lines 164--165
+Overfull \hbox (9.62848pt too wide) in paragraph at lines 165--166
 \OML/cmm/m/it/10 p[]$ 
  []
 
@@ -3030,7 +3087,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 166--168
+Overfull \hbox (20.0pt too wide) in paragraph at lines 167--169
 []
  []
 
@@ -3046,8 +3103,8 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no s in font nullfont!
-./Convex-Optimization.tex:170: Undefined control sequence.
-l.170       \Large
+./Convex-Optimization.tex:171: Undefined control sequence.
+l.171       \Large
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3056,13 +3113,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-./Convex-Optimization.tex:171: LaTeX Error: Environment spacing undefined.
+./Convex-Optimization.tex:172: LaTeX Error: Environment spacing undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.171       \begin{spacing}
+l.172       \begin{spacing}
                            {1.5}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3072,7 +3129,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 5 in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 169--172
+Overfull \hbox (20.0pt too wide) in paragraph at lines 170--173
 [][] 
  []
 
@@ -3198,13 +3255,13 @@ Missing character: There is no M in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-./Convex-Optimization.tex:179: LaTeX Error: \begin{frame} on input line 169 ended by \end{spacing}.
+./Convex-Optimization.tex:180: LaTeX Error: \begin{frame} on input line 170 ended by \end{spacing}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.179       \end{spacing}
+l.180       \end{spacing}
                          
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3221,18 +3278,18 @@ Missing character: There is no v in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no x in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 182--183
+Overfull \hbox (20.0pt too wide) in paragraph at lines 183--184
 [][] 
  []
 
 
-./Convex-Optimization.tex:183: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./Convex-Optimization.tex:184: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.183       \item c
+l.184       \item c
                    onvert to Convex
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3253,13 +3310,13 @@ Missing character: There is no v in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no x in font nullfont!
 
-./Convex-Optimization.tex:184: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./Convex-Optimization.tex:185: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.184       \item h
+l.185       \item h
                    euristics
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3359,12 +3416,28 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no & in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -3377,43 +3450,204 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
+./Convex-Optimization.tex:191: Undefined control sequence.
+l.191       \Large
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 189--190
-[][] 
- []
 
-
-./Convex-Optimization.tex:190: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./Convex-Optimization.tex:192: LaTeX Error: Environment spacing undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.190       \item M
-                   ethods
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+l.192       \begin{spacing}
+                           {1.5}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 190--193
+[][] 
+ []
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
 Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no s in font nullfont!
-
-./Convex-Optimization.tex:191: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.191       \item A
-                   lgorithmic idea
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no A in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -3422,12 +3656,35 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no m in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no w in font nullfont!
 Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no s in font nullfont!
+
+./Convex-Optimization.tex:208: LaTeX Error: \begin{frame} on input line 190 ended by \end{spacing}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.208       \end{spacing}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 )
 ! Emergency stop.
 <*> Convex-Optimization.tex
@@ -3438,7 +3695,7 @@ Missing character: There is no a in font nullfont!
 Here is how much of TeX's memory you used:
  24 strings out of 492909
  282 string characters out of 6132501
- 76519 words of memory out of 5000000
+ 77519 words of memory out of 5000000
  4177 multiletter control sequences out of 15000+600000
  4567 words of font info for 17 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

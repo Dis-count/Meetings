@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.15)  30 JUN 2020 16:10
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.15)  1 JUL 2020 10:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1586,8 +1586,8 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no s in font nullfont!
-./General-Optimization.tex:99: Undefined control sequence.
-l.99       \Large
+./General-Optimization.tex:98: Undefined control sequence.
+l.98       \Large
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1596,21 +1596,21 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-./General-Optimization.tex:100: LaTeX Error: Environment spacing undefined.
+./General-Optimization.tex:99: LaTeX Error: Environment spacing undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.100       \begin{spacing}
-                           {2}
+l.99       \begin{spacing}
+                          {2}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 Missing character: There is no 2 in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 98--101
+Overfull \hbox (20.0pt too wide) in paragraph at lines 97--100
 [][] 
  []
 
@@ -1709,13 +1709,13 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 
-./General-Optimization.tex:107: LaTeX Error: \begin{frame} on input line 98 ended by \end{spacing}.
+./General-Optimization.tex:106: LaTeX Error: \begin{frame} on input line 97 ended by \end{spacing}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.107       \end{spacing}
+l.106       \end{spacing}
                          
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1747,8 +1747,8 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no s in font nullfont!
-./General-Optimization.tex:111: Undefined control sequence.
-l.111       \Large
+./General-Optimization.tex:110: Undefined control sequence.
+l.110       \Large
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1757,13 +1757,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-./General-Optimization.tex:112: LaTeX Error: Environment spacing undefined.
+./General-Optimization.tex:111: LaTeX Error: Environment spacing undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.112       \begin{spacing}
+l.111       \begin{spacing}
                            {2}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1771,7 +1771,7 @@ or  <return>  to continue without it.
 
 Missing character: There is no 2 in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 110--113
+Overfull \hbox (20.0pt too wide) in paragraph at lines 109--112
 [][] 
  []
 
@@ -1838,13 +1838,13 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 
-./General-Optimization.tex:118: LaTeX Error: \begin{frame} on input line 110 ended by \end{spacing}.
+./General-Optimization.tex:117: LaTeX Error: \begin{frame} on input line 109 ended by \end{spacing}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.118       \end{spacing}
+l.117       \end{spacing}
                          
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,

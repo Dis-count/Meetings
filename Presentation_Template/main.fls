@@ -461,6 +461,8 @@ INPUT d:/Software/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam
 INPUT d:/Software/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT d:/Software/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT d:/Software/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT images/Non-convex1.png
+INPUT images/convex-relaxation.png
 OUTPUT main.nav
 OUTPUT main.toc
 OUTPUT main.snm

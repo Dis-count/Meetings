@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.15)  1 JUL 2020 16:14
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.15)  2 JUL 2020 11:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1580,14 +1580,14 @@ File: images/convex.png Graphic file (type bmp)
 
 ]
 
-./chapters/Convex-Optimization.tex:167: Package amsmath Error: Erroneous nesting of equation structures;
+./chapters/Convex-Optimization.tex:168: Package amsmath Error: Erroneous nesting of equation structures;
 (amsmath)                trying to recover with `aligned'.
 
 See the amsmath package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167     \end{frame}
+l.168     \end{frame}
                      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1597,47 +1597,61 @@ If that doesn't work, type  X <return>  to quit.
 ] [61
 
 ]
+File: images/Non-convex1.png Graphic file (type bmp)
+<images/Non-convex1.png>
+ [62
 
-./chapters/Convex-Optimization.tex:187: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.187     \end{frame}
+]
+./chapters/Convex-Optimization.tex:203: Missing number, treated as zero.
+<to be read again> 
+                   >
+l.203     \end{frame}
                      
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
-
-Underfull \hbox (badness 10000) detected at line 187
-[][]
- []
-
-
-./chapters/Convex-Optimization.tex:187: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.187     \end{frame}
+./chapters/Convex-Optimization.tex:203: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.203     \end{frame}
                      
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
+./chapters/Convex-Optimization.tex:203: Missing number, treated as zero.
+<to be read again> 
+                   >
+l.203     \end{frame}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
-Underfull \hbox (badness 10000) detected at line 187
-[][]
- []
+./chapters/Convex-Optimization.tex:203: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.203     \end{frame}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
-[62
+[63
 
-] [63
-
-]) [64
+]
+File: images/convex-relaxation.png Graphic file (type bmp)
+<images/convex-relaxation.png>
+ [64
 
 ] [65
+
+] [66
+
+]) [67
+
+] [68
 
 ]
 \tf@nav=\write9
@@ -1661,12 +1675,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42716 strings out of 492909
- 805876 string characters out of 6132501
- 1266521 words of memory out of 5000000
- 46108 multiletter control sequences out of 15000+600000
+ 42730 strings out of 492909
+ 806142 string characters out of 6132501
+ 1266593 words of memory out of 5000000
+ 46120 multiletter control sequences out of 15000+600000
  540989 words of font info for 68 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  56i,19n,78p,798b,3878s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.xdv (65 pages, 1728968 bytes).
+Output written on main.xdv (68 pages, 1807644 bytes).

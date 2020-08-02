@@ -1,0 +1,12 @@
+Make a self-summary:
+
+Spend a week to accomplish the distancing model for cinema.(7.19.-7.25.)
+7.26 Have a rest.
+Take classes (7.27.--7.30) and finished the homework of the dynamic programming.
+
+7.31. Learning English.
+8.1. Go to the Province Museum.
+
+About pricing: 可以证明 最多只有两种 machine 数量的选择 使得大联盟是稳定的。
+
+参数的选择和表述 有时候还是会出现问题， 关于定理的表述一定要清晰明了。

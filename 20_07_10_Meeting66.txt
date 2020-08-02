@@ -1,0 +1,13 @@
+1. There are too many problems in PPT.
+
+- Notice the triviality. Don't make the minor errors.
+
+- I should notice if the audience can understand what I write, more from the perspective of the audience, more concretely. Don't think these things are easy to understand for others, your task is making them understood what your work is.
+
+- Last but not least, make a summary for writing this PPT.
+应该从一开始列个提纲，把所有东西整理好，存在的问题是， 在写文章的时候，有些标号就不是很对应，这一点在你之前得到的审稿意见中已经得到了相当多的反馈，希望之后能够得到改进。其次，文章改好了之后， 由于PPT 也是从头做，标号可能存在不一样的情况，这个时候列个提纲, 把需要用到的东西整理好，而不是在写的时候从不同的地方到处copy 然后粘到对应位置， 不仅需要大量修改，而且逻辑上可能会出较大问题。
+
+
+7/11 Two questions:  The first one is how to calculate the C(S), need to explain this explicitly.(具体来说是等待时间的概念需要讲清楚)
+
+The second question is that(政府是不是可以通过这个机制获利，最终做出整个图，供政府和第三方选取他们各自需要的部分)

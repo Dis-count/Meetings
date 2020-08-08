@@ -1,0 +1,11 @@
+1.  Finish scheduling quickly.
+
+2.  Print out the understandable result: such as what is the time window.
+
+visualization
+
+3.  Continue to find relative literature about how to cenima scheduling.
+
+4. How to find a scheduling way to show that FIFO is impossible but our way can do.
+Set cij =1, use the time distance to show the difference.
+Or our way can provide more efficient

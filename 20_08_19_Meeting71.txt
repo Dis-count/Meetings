@@ -1,0 +1,32 @@
+Point of view :
+
+-- Don't have a way to compare the FIFO with the distancing when there exist the time windows.
+
+Literature: Inspired by TV scheduling. Very few literature
+
+part I : forecast the parameters.
+
+Use empirical methods to get Demand Input:
+
+1. The movies to be scheduled in that particular week with their running times.
+
+2. Contractual agreements with distributors that certain movies will be
+shown in certain screening rooms. Typically, these agreements are
+made for newly released movies (1 to 3 per week). These
+agreements included the specification of a particular screening
+room or a screening room that meets some capacity requirement.
+
+3. Opening and closing times of the theater forweekdays andweekend
+days and information about the times required for cleaning screening
+rooms between shows.
+
+Demand forecasting:
+
+Forecast for the number of visitors for every movie for each possible
+starting time/day combination in the week for which the schedule is
+produced.
+
+Results : Compare it to the corresponding, manually constructed schedule.
+
+
+Part II: Modeling

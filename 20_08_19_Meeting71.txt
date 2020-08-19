@@ -16,7 +16,7 @@ made for newly released movies (1 to 3 per week). These
 agreements included the specification of a particular screening
 room or a screening room that meets some capacity requirement.
 
-3. Opening and closing times of the theater forweekdays andweekend
+3. Opening and closing times of the theater for weekdays and weekend
 days and information about the times required for cleaning screening
 rooms between shows.
 
@@ -30,3 +30,12 @@ Results : Compare it to the corresponding, manually constructed schedule.
 
 
 Part II: Modeling
+
+The first aspect deals with the fact that only one movie can start at
+the same time on a floor during crowded periods.
+
+Therefore, we add a 0/1 decision variable y_l indicating whether these constraints are
+satisfied.
+
+The third aspect that we explicitly consider deals with the theater's
+closure.

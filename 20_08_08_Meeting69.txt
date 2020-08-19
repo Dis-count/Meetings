@@ -2,10 +2,22 @@
 
 2.  Print out the understandable result: such as what is the time window.
 
-visualization
+Visualization.
 
-3.  Continue to find relative literature about how to cenima scheduling.
+3.  Continue to find relative literature about how to cenima scheduling.  Finished.
 
 4. How to find a scheduling way to show that FIFO is impossible but our way can do.
-Set cij =1, use the time distance to show the difference.
-Or our way can provide more efficient
+Set c_{ij} =1, use the time distance to show the difference.
+Or our way can provide more efficient scheduling.
+
+Soft constraint  VS  Hard constraint
+
+If the objective function 
+
+5.  For example, 10 people in 200 space need to wait for at least 10 min.  50 people in 200 space need to wait for at least 30 min.
+
+Construct a function about the ratio of population to space.
+
+Mainly consider the impact of time distance on the final scheduling.
+
+FIFO also has to satisfy the space distancing.

@@ -1,0 +1,7 @@
+1. input :  numbers and hours.
+2. compare to the manual.
+3.  based on the properties of this problem rather than the modeling.
+
+use this special property to get better result, not just the model solving.
+
+maximize the distance.   time + space(use weight)

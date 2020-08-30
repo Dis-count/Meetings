@@ -1,0 +1,32 @@
+1. Input :  numbers and hours.
+
+2. Compare to the manual.   --> How to compare
+
+3. Based on the properties of this problem rather than the modeling.
+
+Use this special property to get better result, not just the model solving.
+
+maximize the distance.   time + space(use weight)
+
+
+Q: How to define the time distance? (Linear may not be enough.)
+
+---------------------------------------------------------
+增加中间变量 使得目标函数中的二次项变成线性的 例如 调度中的一些操作(具体是什么 XX time)
+
+模型--> 结合该特殊问题的性质 分析特殊的方法
+
+用 general 的方法, 不用具体写出目标函数和约束
+
+重要的是: 如何定义 decision variables
+
+类似二维装箱问题(时间,空间两个维度), 看一下.  以及讨论一下 时间空间优先的情况.
+
+空隙相等 == min [方差 or (max-min)] 直接让各空隙相等.
+
+
+可以类比的例子:
+
+类似的 医生排号  平均 30min 病人迟到/超时  整点 8:00
+
+这里随机性更强一点,可能需要预测有多少人.

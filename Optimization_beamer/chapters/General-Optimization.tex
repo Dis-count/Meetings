@@ -1,8 +1,8 @@
-\section{General Optimization Methods}
+\section{General Optimization Methods for MILP}
 
-    \begin{frame}{General Optimization Methods}
+    \begin{frame}{General Optimization Methods for MILP}
         \centering
-        \includegraphics[width = 1\textwidth]{images/opt.png}
+        \includegraphics[width = 1\textwidth]{images/opt2.png}
     \end{frame}
 
     \subsection{Exact Methods}
@@ -36,9 +36,9 @@
       \begin{itemize}
 
       \item Using the simplex method:
-      $x_{i}+\sum{\bar {a}}_{i,j}x_{j}={\bar {b}}_{i}$ \\
+      \textcolor{red}{$x_{i}+\sum{\bar {a}}_{i,j}x_{j}={\bar {b}}_{i}$} \\
 
-      where $x_i$ are the basic variables and the $x_j$'s are the nonbasic variables.
+      where $x_i$ are the basic variables and the $x_j$ are the nonbasic variables.
 
       \item Rewrite this equation: integer parts(left) and the fractional parts(right):
 
@@ -82,13 +82,13 @@
         \item Heuristic algorithms
         \vspace{4pt}
         \begin{enumerate}
+          \item<+->  Problem-specific heuristics
           \item<+->  Metaheuristic
             \begin{enumerate}
               \item<+>[*] Single solution-based metaheuristics
               \item<+>[*] Population-based metaheuristics
             \end{enumerate}
           \vspace{4pt}
-          \item<+->  Problem-specific heuristics
         \end{enumerate}
         \item<+-> Approximate algorithms
       \end{itemize}
@@ -118,6 +118,11 @@
 
     \end{frame}
 
+
+    \begin{frame}{General Optimization Methods for MILP}
+        \centering
+        \includegraphics[width = 1\textwidth]{images/opt.png}
+    \end{frame}
     % Using the simplex method to solve a linear program produces a set of equations of the form
     % $x_{i}+\sum{\bar {a}}_{i,j}x_{j}={\bar {b}}_{i}$ \\
     %

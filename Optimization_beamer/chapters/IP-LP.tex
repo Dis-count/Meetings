@@ -25,8 +25,8 @@
     \begin{frame}{Totally Unimodular Matrix}
       \begin{spacing}{1.5}
         \begin{itemize}
-          \item Every entry in A is 0, +1, or −1;
-          \item Every column of A contains at most two non-zero (i.e., +1 or −1) entries;
+          \item Every entry in A is 0, +1, or -1;
+          \item Every column of A contains at most two non-zero (i.e., +1 or -1) entries;
           \item If two non-zero entries in a column of A have the same sign, then the row of one is in B, and the other in C;
           \item If two non-zero entries in a column of A have opposite signs, then the rows of both are in B, or both in C.
         \end{itemize}
@@ -46,14 +46,19 @@
       \begin{equation*}
         \begin{align}
         Bx &= b \\
-        x^* &= (B^{-1}b,0) \\
         \end{align}
       \end{equation*}
-      How to obtain the inverse of B?
+
       \begin{block}
         {Cramer's rule:}
+        {\centering\[x^* &= (B^{-1}b,0)\]}
+      \end{block}
+
+      \begin{block}
+        {How to obtain the inverse of B?}
         {\centering\[B^{-1} = B^*/\text{det}(B)\]}
       \end{block}
+
     \end{frame}
 
     \begin{frame}{Simplex Method}

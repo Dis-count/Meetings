@@ -101,7 +101,7 @@
           \item Compute a descent direction $p_k$
           \item Choose $ \displaystyle \alpha _{k} $ to 'loosely' minimize $ h(\alpha )=f(\mathbf {x} _{k}+\alpha \mathbf {p} _{k}) $ over $ \alpha \in \mathbb {R} _{+}$
           \item Update $ \mathbf {x} _{k+1}=\mathbf {x} _{k}+\alpha _{k}\mathbf {p} _{k} $, and $ {\textstyle k=k+1} $
-          \item Until $ \|\nabla f(\mathbf {x} _{k+1})\| $ < tolerance.
+          \item Until $ \|\nabla f(\mathbf {x} _{k+1})\| <$ tolerance.
         \end{enumerate}
 
         \item \textcolor{yellow}{Gradient descent}:
@@ -123,7 +123,7 @@
         \item Newton's Method
         \item Quasi-Newton method
       \end{itemize}
-      convergence condition
+      Convergence condition
     \end{frame}
 
     \begin{frame}{KKT}
@@ -153,7 +153,7 @@
       \begin{equation*}
         \begin{align}
         f(x,\lambda)=& f_{0}(x)+\sum_{i=1}^{m}\lambda_{i}f_{i}(x) \\
-        g(\lambda)=& \min_{x\in {\mathcal {D}}}  f(x,\lambda) \text{Concave}
+        g(\lambda)=& \min_{x\in {\mathcal {D}}}  f(x,\lambda) \quad \text{Concave}
       \end{align}
       \end{equation*}
 

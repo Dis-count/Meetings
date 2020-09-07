@@ -20,7 +20,7 @@ Q: How to define the time distance? (Linear may not be enough.)
 
 重要的是: 如何定义 decision variables
 
-类似二维装箱问题(时间,空间两个维度), 看一下.  以及讨论一下 时间空间优先的情况.
+类似二维装箱问题(时间,空间两个维度), 看一下.  以及讨论一下 时间,空间优先的情况.
 
 空隙相等 == min [方差 or (max-min)] 直接让各空隙相等.
 

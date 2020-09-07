@@ -1,0 +1,12 @@
+1. Solved the bilinear term, but add another three groups of constraints.
+
+2. The sum of time gap is a constant, we need to find another way to define
+   the time distance. Add penalty terms?
+
+3. Space first, find the larest room, and use this room to satisfy the demand at first.
+
+If we use the corresponding policy, the result is very easy to obtain. And each policy will give a lower bound for this problem.
+
+4. Use dynamic programming.
+
+5. That paper difference: (min waiting time) Our object is to (max the distance).

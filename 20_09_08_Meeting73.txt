@@ -10,3 +10,15 @@ If we use the corresponding policy, the result is very easy to obtain. And each 
 4. Use dynamic programming.
 
 5. That paper difference: (min waiting time) Our object is to (max the distance).
+
+--------------------------------------------------------------------------
+
+Change it to a two-dimentional bin packing problem.
+
+Use the measure of the area to express
+
+max [min (Every room occupation ratio)]
+
+Think about why you can't change the problem to the bin packing problem or the backpack problem.
+
+Think the problem from a different point of view.

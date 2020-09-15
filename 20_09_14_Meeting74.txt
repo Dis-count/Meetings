@@ -1,0 +1,25 @@
+Already Get the result by Gurobi.   And illustrate it in a straight-forward way.
+Write and finish the paper quickly!!!
+
+20-09-15
+1. 时间   空间
+
+时间 更重要? 如何体现.
+
+2. study group  可能分为 早中晚 三种  即存在  time window 怎么解决?
+
+3. 只用面积衡量 是 不准确的 比如早上2小时晚上2小时,  早上4小时,显然是不一样的.
+
+  可能需要积分的时候加上权重.
+
+4. Heuristic: 给定一组item，给定一定数量的可变capacity背包（同capacity），如何计算最小capacity，用来装完所有的item
+
+类似最小最大完工时间. 先只在时间这一个维度上考虑, 这样会得到一个最优的排列方式, 作为一个启发式
+因为没有考虑 空间的问题.
+
+5. 结合  nested knapsack (即有的背包容量大可以装不同的材料,有的只能装一种材料)
+应该可以实际一种启发式方法,  分阶段进行.
+
+分类(时间,空间) + 装箱 Knapsack
+
+6. 将每个group加一个固定时间，如半小时，同样的还是做knapsack，这样的话就可以保证时间间隔。

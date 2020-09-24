@@ -18,7 +18,7 @@ Write and finish the paper quickly!!!
 因为没有考虑 空间的问题.
 
 5. 结合  nested knapsack (即有的背包容量大可以装不同的材料,有的只能装一种材料)
-应该可以实际一种启发式方法,  分阶段进行.
+应该可以使用一种启发式方法,  分阶段进行.
 
 分类(时间,空间) + 装箱 Knapsack
 

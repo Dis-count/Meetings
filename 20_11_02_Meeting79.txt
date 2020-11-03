@@ -1,0 +1,28 @@
+The content include Three parts:
+
+The first one is about the Machine scheduling paper:
+
+The biggest problem is lacking of logicality.
+
+1. Preliminary \to Motivating Example \to Definition.
+
+2. And the consistancy of writing rules.
+
+3. The natural transition between Lemma and Theorem.
+
+The part is also essential for your English writing which you must be concerned about.
+
+The second one is about the Revision for MMOR:
+
+Notice the writing language. Continue revising.
+
+The third one is about the Multiple Knapsack problem:
+
+Maybe the definition has some problems, thus the result doesn't seem
+reasonable. In fact, you should realized and changed these things before the professor.
+Define the space is a concave function, which means that the satisfaction will decrease with the increase of room space.
+
+
+And Talk about the future work with the professor in dinner time.
+
+You can't let your professor down. That's all what I want to say.

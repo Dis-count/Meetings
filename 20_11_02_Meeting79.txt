@@ -1,4 +1,4 @@
-The content include Three parts:
+The content includes Three parts:
 
 The first one is about the Machine scheduling paper:
 
@@ -12,15 +12,19 @@ The biggest problem is lacking of logicality.
 
 The part is also essential for your English writing which you must be concerned about.
 
+And THE introduction should be expanded like this way:
+Three parts, the first one: unbalanced cooperative games
+second one: scheduling games
+third one:  methods to balance the scheduling game
+
 The second one is about the Revision for MMOR:
 
 Notice the writing language. Continue revising.
 
 The third one is about the Multiple Knapsack problem:
 
-Maybe the definition has some problems, thus the result doesn't seem
-reasonable. In fact, you should realized and changed these things before the professor.
-Define the space is a concave function, which means that the satisfaction will decrease with the increase of room space.
+Maybe the definition has some problems, thus the result does not seem reasonable. In fact, you should realized and changed these things before the professor reminded you.
+At first, you should define a concave function of the space, which means that the satisfaction will decrease with the increase of room space.
 
 
 And Talk about the future work with the professor in dinner time.

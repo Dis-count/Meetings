@@ -1,0 +1,16 @@
+1. 抽象为 100个 分组 尽可能接近，看一下资料 解决一下。 k-partition problem
+
+2. 不要短视，比如 前几个都会放地小一点，可能导致后面装不满， infeasible。
+
+3. sub2 min-问题不等价于 背包问题 max + 最小(精确解只能用 二分 + 背包)
+
+4. 非整数近似没什么问题，再去检查一下程序。
+
+5. 一个数学问题， 一张图  可以分为点数/面积相同的几个部分。
+
+
+https://blog.csdn.net/weixin_43274704/article/details/100014879?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-4.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-4.control
+
+https://www.v2ex.com/t/363906
+
+https://www.quora.com/A-group-of-N-integer-numbers-need-to-be-divided-fairly-into-K-subgroups-A-fair-division-is-that-the-max-of-the-sums-of-K-subgroups-is-minimal

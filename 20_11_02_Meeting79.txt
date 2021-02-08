@@ -6,7 +6,7 @@ The biggest problem is lacking of logicality.
 
 1. Preliminary \to Motivating Example \to Definition.
 
-2. And the consistancy of writing rules.
+2. And the consistancy of writing rules.  character/ symbol
 
 3. The natural transition between Lemma and Theorem.
 

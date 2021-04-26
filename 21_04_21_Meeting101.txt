@@ -1,0 +1,33 @@
+Individual Meeting
+
+1. TSP game 修改还是要认真。我的问题，当时对这篇文章没有特别熟悉。
+- 上下界问题 松弛
+- 基于拉格朗日松弛的启发式方法更新上界。 upper bound C_u(V)
+- 对称问题  i \noteq j
+- 图片解释问题
+
+2. MBA 运筹学成绩问题。打车费用报销，走发票报账，不是劳务
+
+3. 重庆报销：教师包干制，学生 发票，酒店住宿（没有的话，写申请 住在学校附近讨论） 财务处发票报销
+
+Group Meeting:
+
+We talked about the existing problems and the possible solutions.
+
+The details see the PNG.
+
+Useful things for me:
+
+Meeting 不要讨论太多细节，自己有想法不用请示，直接去做，遇到问题再找老板讨论。
+
+提升做汇报的能力，给别人讲明白前自己要非常熟悉的。
+
+自我充电不要落下。养成每天 Learn English and writing and Coding and summarize。
+
+自己设置 deadline, 不要让 Meeting 打断自己的节奏。
+你要对自己的文章负责，而不是老板的评价负责，不要在意 Meeting 时老师对你的看法。
+
+迷茫时 多读文献。
+==================================================
+1. 论文中最有用的一句话。
+2. 一周一个数学常识，例如 求解线性规划。
